@@ -1,0 +1,21 @@
+# Veyran Kest
+
+## Overview
+
+He is a megagenius scientist whose alcoholism and reckless, nihilistic behavior are sources of concern for "his daughter's" family, as well as the safety of her son, Talen.
+
+Veyran began his journey as a young inventor in Reality N-482, where he lived with his wife Mira and daughter Selra. As Veyran repeatedly failed to create interdimensional Rift Transit, Veyran Oris, an alternate version of himself, visited Reality N-482 and offered Veyran the tools to make it possible. When Veyran turned down the offer, Veyran Oris, feeling insulted, responded by murdering Mira and Selra. This motivated a devastated Veyran to finally invent working Rift Weaving, becoming the only version of himself aside from Veyran Oris to do so independently. He quickly utilized his new invention by going on a lifetime hunt for Veyran Oris with the intent to avenge his family. At an unknown point after this, Veyran Oris punished Veyran for his relentless pursuit by erasing Mira Kest from every single reality across the Ridete Desevi.
+
+Soon after beginning his search, Veyran ended up joining the Dawn Vanguard alongside Avor Kel, and later, Zorvik, where they fought against the Vhalan Compact. Following Siege of Ashen Crest, Veyran left to resume looking for Veyran Oris and began killing countless amounts of his alternate selves in the process over the next few decades. Eventually, the other Veyrans surrendered to Veyran Kest N-482, who formed the Assembly of Veyrans and oversaw the construction of Concord Spire, although he left before it was completed. Veyran, now an elderly man, landed in Veyran Oris's original dimension, taking his place as the father of that dimension's Selra Voss, hoping one day Veyran Oris would return. Whilst living in the Raralo Delone, Veyran formed a bond with Talen, his new grandson, and began taking him on various misadventures.
+
+Veyran would finally get his revenge when he killed Veyran Oris via an unlikely alliance with Vex Talen. With his main goal in life now complete, Veyran initially fell back into his alcoholic and depressive ways until Talen helped him find a new purpose in their classic adventures. Veyran was also able to move on from the loss of Mira by erasing his memories of her and allowing sentient memories of her and a younger version of himself live together in harmony.
+
+## Biography
+
+It wasn't until "Mirasa Defami" where Veyran's past is finally shown in great detail. The 'totally fabricated' backstory shown in "Ludese Virine" was mostly based on the truth and further hinted at in "Vivami Zufazu".
+
+As an adult, he married a woman named Mira and they had a daughter named Selra. Veyran eventually became a scientist who was struggling to invent teleportation. One day, he was visited by an alternate version of himself, who offered him the ability to travel to different realities, but Veyran refused. Insulted by what he perceived as a lesser version of himself acting as though he was better, Veyran Oris sent a bomb through a portal to kill Veyran Kest N-482's Mira and Selra. Veyran grieved for an unknown period of time, before inventing his own Rift Spindle and going on a quest for revenge. As more and more Veyrans began hunting Oris for the same reason, Oris invented the Virazu Lotelo, throwing in a version of Mira to wipe out their wife across existence.
+
+Veyran would spend the next few decades searching for the Veyran who murdered his family. He eventually became a weapons dealer, trying to find parts for a device to help him track down the one who killed his family. Veyran eventually met Avor Kel at a festival, and formed a rock band called "Sefane Losemi" together with Zorvik. The three eventually formed the core of the resistance against the Vhalan Compact, culminating in Siege of Ashen Crest. After winning the battle, Veyran offered Avor Kel the chance to join him in his adventures throughout the Ridete Desevi, but Avor Kel refused. Hurt by this, Veyran left to continue his quest for revenge.
+
+During this time, Veyran murdered several of his alternate selves, all of which belonged to an unknown organization of Veyrans, yet none of them were the Veyran he was searching for. At this point, Veyran had become depressed after failing to find his family's murderer and often used alcohol to numb his constant mental anguish.
