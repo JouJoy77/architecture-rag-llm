@@ -1,0 +1,8 @@
+[
+  {"id": "fuel_en", "query": "What substance acts as the fuel and essential medium for interdimensional Rift Weaving?", "source": "knowledge_base/veyl_catalyst.md", "evidence": ["essential medium"]},
+  {"id": "tasklings_ru", "query": "Какое устройство создаёт Tasklings для выполнения одной задачи?", "source": "knowledge_base/taskling_cradle.md", "evidence": ["creates a Taskling"]},
+  {"id": "energy_ru", "query": "Какую долю энергии Nezuko Delomi забирает из Lesser Realm?", "source": "knowledge_base/nested_realm_cell.md", "evidence": ["80%"]},
+  {"id": "compact_en", "query": "What species founded and ruled the government of the Vhalan Compact?", "source": "knowledge_base/vhalan_compact.md", "evidence": ["founded and ruled", "Yavari"]},
+  {"id": "cyborg_ru", "query": "Какой киборг был создан из Avor Kel?", "source": "knowledge_base/avor_kel.md", "evidence": ["cyborg", "Avor Ember"]},
+  {"id": "expanse_en", "query": "How is Velvet Expanse entered, and why is it safe for children?", "source": "knowledge_base/velvet_expanse.md", "evidence": ["chalk", "bouncy"]}
+]
