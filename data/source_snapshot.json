@@ -1,0 +1,2112 @@
+{
+  "schema_version": 1,
+  "snapshot_created_at_utc": "2026-11-02T09:12:36.430573+00:00",
+  "source": "Rick and Morty Wiki contributors",
+  "license": "CC-BY-SA; see DATA_SOURCES.md",
+  "max_words": 700,
+  "documents": [
+    {
+      "page": "Rick Sanchez",
+      "category": "character",
+      "name": "Veyran Kest",
+      "resolved_title": "Rick Sanchez",
+      "page_id": 2073,
+      "revision_id": 128442,
+      "fetched_at_utc": "2026-11-01T01:36:39.193683+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Rick_Sanchez",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Rick_Sanchez?action=history",
+      "html_sha256": "ef6c0fe2384da6bdd0a7febaf6171dee7dd4f6172d60651bfd7ccf5e0197ba29",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "He is a megagenius scientist whose alcoholism and reckless, nihilistic behavior are sources of concern for \"his daughter's\" family, as well as the safety of her son, Morty."
+        },
+        {
+          "section": "Overview",
+          "text": "Rick began his journey as a young inventor in Dimension C-137, where he lived with his wife Diane and daughter Beth. As Rick repeatedly failed to create interdimensional portal travel, Rick Prime, an alternate version of himself, visited Dimension C-137 and offered Rick the tools to make it possible. When Rick turned down the offer, Rick Prime, feeling insulted, responded by murdering Diane and Beth. This motivated a devastated Rick to finally invent working portal technology, becoming the only version of himself aside from Rick Prime to do so independently. He quickly utilized his new invention by going on a lifetime hunt for Rick Prime with the intent to avenge his family. At an unknown point after this, Rick Prime punished Rick for his relentless pursuit by erasing Diane Sanchez from every single reality across the Multiverse."
+        },
+        {
+          "section": "Overview",
+          "text": "Soon after beginning his search, Rick ended up joining the Resistance alongside Birdperson, and later, Squanchy, where they fought against the Galactic Federation. Following the Battle of Blood Ridge, Rick left to resume looking for Rick Prime and began killing countless amounts of his alternate selves in the process over the next few decades. Eventually, the other Ricks surrendered to Rick C-137, who formed the Council of Ricks and oversaw the construction of the Citadel of Ricks, although he left before it was completed. Rick, now an elderly man, landed in Rick Prime's original dimension, taking his place as the father of that dimension's Beth Smith, hoping one day Rick Prime would return. Whilst living in the Prime Dimension, Rick formed a bond with Morty, his new grandson, and began taking him on various misadventures."
+        },
+        {
+          "section": "Overview",
+          "text": "Rick would finally get his revenge when he killed Rick Prime via an unlikely alliance with Evil Morty. With his main goal in life now complete, Rick initially fell back into his alcoholic and depressive ways until Morty helped him find a new purpose in their classic adventures. Rick was also able to move on from the loss of Diane by erasing his memories of her and allowing sentient memories of her and a younger version of himself live together in harmony."
+        },
+        {
+          "section": "Biography",
+          "text": "It wasn't until \"Rickmurai Jack\" where Rick's past is finally shown in great detail. The 'totally fabricated' backstory shown in \"The Rickshank Rickdemption\" was mostly based on the truth and further hinted at in \"Rickternal Friendshine of the Spotless Mort\"."
+        },
+        {
+          "section": "Biography",
+          "text": "As an adult, he married a woman named Diane and they had a daughter named Beth. Rick eventually became a scientist who was struggling to invent teleportation. One day, he was visited by an alternate version of himself, who offered him the ability to travel to different realities, but Rick refused. Insulted by what he perceived as a lesser version of himself acting as though he was better, Rick Prime sent a bomb through a portal to kill Rick C-137's Diane and Beth. Rick grieved for an unknown period of time, before inventing his own portal gun and going on a quest for revenge. As more and more Ricks began hunting Prime for the same reason, Prime invented the Omega Device, throwing in a version of Diane to wipe out their wife across existence."
+        },
+        {
+          "section": "Biography",
+          "text": "Rick would spend the next few decades searching for the Rick who murdered his family. He eventually became a weapons dealer, trying to find parts for a device to help him track down the one who killed his family. Rick eventually met Birdperson at a festival, and formed a rock band called \"The Flesh Curtains\" together with Squanchy. The three eventually formed the core of the resistance against the Galactic Federation, culminating in the Battle of Blood Ridge. After winning the battle, Rick offered Birdperson the chance to join him in his adventures throughout the multiverse, but Birdperson refused. Hurt by this, Rick left to continue his quest for revenge."
+        },
+        {
+          "section": "Biography",
+          "text": "During this time, Rick murdered several of his alternate selves, all of which belonged to an unknown organization of Ricks, yet none of them were the Rick he was searching for. At this point, Rick had become depressed after failing to find his family's murderer and often used alcohol to numb his constant mental anguish."
+        }
+      ],
+      "linked_terms": {
+        "Battle of Blood Ridge": "The Battle of Blood Ridge",
+        "Beth": "Beth Sanchez (C-137)",
+        "Beth Smith": "Beth Smith Prime",
+        "Birdperson": "Birdperson",
+        "Council of Ricks": "Council of Ricks",
+        "Diane": "Diane Sanchez",
+        "Diane Sanchez": "Diane Sanchez",
+        "Evil Morty": "Evil Morty",
+        "Galactic Federation": "Galactic Federation",
+        "Morty": "Morty Smith",
+        "Multiverse": "Multiverse",
+        "Omega Device": "Omega Device",
+        "Prime Dimension": "Prime Dimension",
+        "Rick Prime": "Rick Prime",
+        "Rickmurai Jack": "Rickmurai Jack",
+        "Rickternal Friendshine of the Spotless Mort": "Rickternal Friendshine of the Spotless Mort",
+        "Squanchy": "Squanchy",
+        "The Flesh Curtains": "The Flesh Curtains",
+        "The Rickshank Rickdemption": "The Rickshank Rickdemption"
+      }
+    },
+    {
+      "page": "Morty Smith",
+      "category": "character",
+      "name": "Talen Voss",
+      "resolved_title": "Morty Smith",
+      "page_id": 2074,
+      "revision_id": 128087,
+      "fetched_at_utc": "2026-11-01T01:36:40.830040+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Morty_Smith",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Morty_Smith?action=history",
+      "html_sha256": "e0cc4897eb854adfa04de18c1a4d01eaa8314d988133288632077f6b31fe8fa5",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Morty is Rick Sanchez's grandson and often tags along on his various misadventures as a sidekick whilst attending Harry Herpson High School along with his sister, Summer."
+        },
+        {
+          "section": "Overview",
+          "text": "Morty began as an incredibly anxious and submissive teenage boy who was believed to have low intelligence by those around him. He had little say in the adventures he went on with Rick and was often forced into participating, leading to Morty becoming a nervous wreck after experiencing many traumas, including the total destruction of his home dimension. However, as time passed, Morty gradually gained confidence and became a more independent person rather than a mere sidekick to Rick. This newfound confidence not only made Morty more capable, but also allowed him to occasionally distance himself from Rick and his nefarious actions, although Morty still chooses to stand by Rick whenever necessary."
+        },
+        {
+          "section": "Overview",
+          "text": "It has since been revealed in \"Rickmurai Jack\" and \"Solaricks\" that Rick (C-137) is not Morty's true grandfather, as Morty is actually the biological grandson of Rick Prime, a version of Rick who murdered C-137's family."
+        },
+        {
+          "section": "Biography",
+          "text": "Currently, Morty is 14 years old. He first met his grandfather, Rick Sanchez, when the latter moved into his home after supposedly being absent for 20 years. Unbeknownst to all at the time, the Rick who returned was not Morty's actual grandfather, but the Rick from Dimension C-137 and, after decades of seeking revenge for the loss of his wife and daughter while exploring the multiverse, he eventually moved into Morty's dimension, hoping that one day, Rick Prime would return to his universe so C-137 could take his revenge. Rick appeared to arrive sometime around Morty's thirteenth birthday, as Rick was present for the party. Rick eventually began wiping Morty's memories of some of their adventures, partly to keep Morty from going insane.By Rick's admission, their initial association was purely so Morty could serve as bait for Rick Prime."
+        },
+        {
+          "section": "Biography",
+          "text": "Rick later states Morty's low intelligence masks Rick's high intelligence, acting as a camouflage that prevents Rick's incredible intelligence from being tracked."
+        },
+        {
+          "section": "Biography",
+          "text": "Roughly six months after Rick had first met Morty, an insecure Morty asked Rick to create some kind of love potion so Jessica would fall in love with him, an annoyed Rick doing just that. As Jessica had the flu though, this created a contagion where everyone, save those genetically related to Morty, was in love with Morty. Rick attempted to cure this serum through a combination of various animal DNAs only to wind up mutating the planet into Cronenbergs. Unwilling to fix the problem, Rick decided that they should simply leave, abandoning Morty's universe for a new one. Traumatized by the affair, Morty initially kept this fact a secret only to let Summer C-131 in on it when she was suffering from an emotional crisis."
+        },
+        {
+          "section": "Biography",
+          "text": "After being ambushed by the Galactic Federation at Birdperson and Tammy Guterman's wedding, the family hid on Dwarf Terrace-9, Rick leaving to \"get ice cream\". Understanding that Rick was sacrificing his freedom for the family's safety, Morty tried to make the best of the Federation's rule of Earth, hoping his family could have a normal life. When Summer grew desperate to save Rick, she dug Rick C-131's Portal Gun out from the backyard. To prove his point, Morty opened a portal back to the Prime Dimension, showing how Rick had callously abandoned Morty's original family. When said original family destroyed C-131's Portal Gun, guards from the Citadel responded, freezing the Prime family and taking Morty and Summer prisoner. When tried by the Council of Ricks, Morty denied renouncing Rick, warning the Council that he would come for them, a fact proven true seconds later when Rick C-137 teleported the Citadel into the Federation Prison's. After rescuing Morty and Summer, Rick brought down the Federation. Upon returning to Earth, Rick triumphantly revealed to Morty that he'd manipulated everything to have Beth divorce Jerry and make himself the dominant figure in the family and Morty's life."
+        },
+        {
+          "section": "Biography",
+          "text": "Concerned about his father though, Morty guilted Rick into taking Jerry on an adventure."
+        },
+        {
+          "section": "Biography",
+          "text": "Morty eventually helped himself to the Portal Gun, using it to repair Rick's damage across the galaxy only for Rick to discover what he'd done, causing the two to fall out."
+        }
+      ],
+      "linked_terms": {
+        "Birdperson": "Birdperson",
+        "Council of Ricks": "Council of Ricks",
+        "Cronenbergs": "Cronenbergs",
+        "Dimension C-137": "Dimension C-137",
+        "Dwarf Terrace-9": "Dwarf Terrace-9",
+        "Galactic Federation": "Galactic Federation",
+        "Harry Herpson High School": "Harry Herpson High School",
+        "Jessica": "Jessica Prime",
+        "Portal Gun": "Portal Gun",
+        "Prime Dimension": "Prime Dimension",
+        "Rick Prime": "Rick Prime",
+        "Rick Sanchez": "Rick Sanchez",
+        "Rickmurai Jack": "Rickmurai Jack",
+        "Solaricks": "Solaricks",
+        "Summer": "Summer Smith",
+        "Tammy Guterman": "Tammy Guterman"
+      }
+    },
+    {
+      "page": "Summer Smith",
+      "category": "character",
+      "name": "Neris Voss",
+      "resolved_title": "Summer Smith",
+      "page_id": 2080,
+      "revision_id": 128545,
+      "fetched_at_utc": "2026-11-01T01:36:43.086040+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Summer_Smith",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Summer_Smith?action=history",
+      "html_sha256": "a556a511085da133afda2fd68753d7f27c7514277abcda65ac1a93b1a34d94ea",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "She is a member of the Smith Family and the daughter of Jerry Smith and Beth Smith/Space Beth, the older sister of Morty Smith, and the mother of Naruto Smith."
+        },
+        {
+          "section": "Overview",
+          "text": "She currently acts as the older sister and the granddaughter of Morty and Rick, respectively, from the Prime Dimension and Dimension C-137. For a time, she was the only other known member of the the Smith Family to be aware of that fact."
+        },
+        {
+          "section": "Overview",
+          "text": "She and Morty often squabble and compete for Rick's affection, but also maintain a unique bond stemming from the revelation that the Morty she's with is not her original brother."
+        },
+        {
+          "section": "Appearance",
+          "text": "Summer is a female teenager of average height, thin build, and wide hips. She has a fair complexion, shoulder-length ginger hair, an oblong-shaped face, and a pointed nose. Her most common outfit has been a bright pink tank-top, white capri-pants, and black slip-on shoes. She usually has her hair pulled back in a ponytail. Notably, she shares the exact same face as her father, Jerry."
+        },
+        {
+          "section": "Appearance",
+          "text": "Her pajamas consist of a white under and pink shorts more often than a pink tank top with red and white striped sweatpants."
+        },
+        {
+          "section": "Personality",
+          "text": "Summer has some personality traits of a typical American teenager, as she wishes to be popular among her peers, and finds the antics of her family to be dysfunctional, though she still cares for them. She's very attached to her phone and social media, taking videos of her dog Snuffles when he became super-smart, and shuddering at the thought of her father Jerry joining Facebook."
+        },
+        {
+          "section": "Personality",
+          "text": "It is revealed that Summer can be jealous of the close relationship about her grandfather Rick and her brother Morty, and she can sometimes feel ignored by her grandfather. While Rick tries to keep her at a distance, the two of them have gone on their own adventures, including on the planet Gazorpazorp. Her complex of being ignored by Rick exhibits into a connection with the Devil in \"Something Ricked This Way Comes\"."
+        },
+        {
+          "section": "Personality",
+          "text": "Although Summer is not as scientifically-minded as her grandfather Rick, she does possess intelligence. Summer is shown to be a very smart and nimble-witted teen, at least compared to rest of her family. Currently, she is not as violent as Beth was when Beth was young, but enjoys fighting alongside Rick and reacts quickly to life-or-death situations."
+        },
+        {
+          "section": "Personality",
+          "text": "She is also a sociopathic and narcissistic person, like her grandfather; similar to the way that Morty responds, but only when truly pushed to his limits. Summer, however, seems more readily able to access these elements of her deeper-rooted personality when subjected to her grandfather Rick's influence for a relatively short amount of time, as seen in \"Rickmancing the Stone\"."
+        },
+        {
+          "section": "Personality",
+          "text": "She is also shown to possess a strong desire for family. Her stance towards them is best summarized in her quote from \"The Wedding Squanchers\", where she explains that she would rather live an isolated existence without a future if it means that the family won't have to abandon Rick, saying that she believes that, \"you don't love someone in hopes of a reward\". In \"The Rickchurian Mortydate\", she is shown to reiterate this sentiment when she freely runs away with the family to a cabin in the woods so that Beth will never have to experience her existential crisis alone."
+        },
+        {
+          "section": "Rick",
+          "text": "Summer seems jealous of the fact that her grandfather Rick chooses to go on adventures with her brother Morty and not her. Rick claims that the opinions of his granddaughter Summer mean \"very little\" to him, but he still cares for her, as he admits that the top Summer wears in \"Raising Gazorpazorp\" is cute."
+        },
+        {
+          "section": "Rick",
+          "text": "Summer gets a part-time job at a cursed antique store run by the Devil, aka Mr. Needful, just to spite Rick, in \"Something Ricked This Way Comes\". Despite this, Rick helps his granddaughter Summer buff up and take revenge on Mr. Needful after they get fired by him. Afterwards, the two go around beating up other people doing bad things."
+        },
+        {
+          "section": "Rick",
+          "text": "In \"Ricksy Business\", Summer, along with her brother and grandfather, freezes time to stop her parents from finding their house in wretched shape. She proceeds to have fun together all around town, doing things like carving pumpkins, pulling peoples' pants down, and watching the movie Titanic together."
+        }
+      ],
+      "linked_terms": {
+        "Beth Smith": "Beth Smith",
+        "Dimension C-137": "Dimension C-137",
+        "Gazorpazorp": "Gazorpazorp",
+        "Jerry": "Jerry Smith",
+        "Jerry Smith": "Jerry Smith",
+        "Morty Smith": "Morty Smith",
+        "Mr. Needful": "Mr. Needful",
+        "Naruto Smith": "Naruto Smith",
+        "Prime Dimension": "Prime Dimension",
+        "Raising Gazorpazorp": "Raising Gazorpazorp",
+        "Rickmancing the Stone": "Rickmancing the Stone",
+        "Ricksy Business": "Ricksy Business",
+        "Smith Family": "Smith Family",
+        "Snuffles": "Snuffles",
+        "Something Ricked This Way Comes": "Something Ricked This Way Comes",
+        "Space Beth": "Space Beth",
+        "The Rickchurian Mortydate": "The Rickchurian Mortydate",
+        "The Wedding Squanchers": "The Wedding Squanchers",
+        "Titanic": "Titanic"
+      }
+    },
+    {
+      "page": "Beth Smith",
+      "category": "character",
+      "name": "Selra Voss",
+      "resolved_title": "Beth Smith",
+      "page_id": 2182,
+      "revision_id": 128003,
+      "fetched_at_utc": "2026-11-01T01:36:45.330615+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Beth_Smith",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Beth_Smith?action=history",
+      "html_sha256": "dff2f5d72f6990c015fd7987fad64fd018bcda38817bbbca4db6ca30769bf46e",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "She is the daughter of Rick C-131 (deceased) and Diane Sanchez C-131, the wife of Jerry Smith (originally of Jerry Smith C-131), and the mother of Summer Smith and the deceased Morty Smith (C-131). She currently acts as the mother of Morty Smith of the Prime Dimension and the daughter of the Rick Sanchez of Dimension C-137, respectively. She also works as a veterinarian at the St. Equis Hospital."
+        },
+        {
+          "section": "Overview",
+          "text": "Characterized by a superiority complex and abandonment issues, Beth gradually came to struggle with her husband over his contributions to their marriage, due in part to his lower-level position and subsequent employment, further driven by her father influencing her feelings of superiority."
+        },
+        {
+          "section": "Overview",
+          "text": "Around the same time, Beth grappled with the decision to leave her family in order to find herself or stay on Earth and accept things for the way they are. She ended up leaving Rick to decide for her, who created a clone of Beth and mixed the two around so not even he would know which one was the original Beth. One of the Beths flew out into space, whilst the other remained on Earth beside her family."
+        },
+        {
+          "section": "Biography",
+          "text": "The details of Beth's history are relatively unknown; she was born from Rick Sanchez and Diane Sanchez (C-131), and she has recounted herself as a \"bright-eyed\" woman from Muskegon, Michigan in \"Meeseeks and Destroy.\" As indicated in \"Hot Rick\" during Beth's childhood, her parents' marriage deteriorated amid unknown circumstances, and Rick decided to leave both Beth and her mother to travel across the cosmos. Beth blamed herself for her parents falling out, and seeing her father as an intelligent scientist compared to her mother, Beth came to idolize Rick and blamed Diane for \"chasing off the dad with the guts to leave\"."
+        },
+        {
+          "section": "Biography",
+          "text": "It is revealed in \"The ABC's of Beth\" that, at some point in her childhood, Beth became an insane and psychotic little girl. She began asking her father, Rick, to create toy-like weapons for her so she can harm other children. As an adult, Beth reasoned that she did that to \"spend time with her father.\" Rick, aware of the increasing danger that would represent his daughter, created a dream world, Froopyland, for her in order to keep the other children of the neighborhood safe. Beth managed to take one of her friends, Tommy, to Froopyland, where, according to Tommy himself, she pushed him into a honey swamp as she was envious of the good relationship he has with his father. Then, she convinced herself that Tommy only got lost in Froopyland and therefore went missing."
+        },
+        {
+          "section": "Biography",
+          "text": "Beth was somewhat distant towards her children at their childhood, as implied in \"Raising Gazorpazorp.\" Her job as a veterinary surgeon at St. Equis Hospital causes her to spend less time with her husband and children, and she feels that coddling them would make them dependent or end up like her husband."
+        },
+        {
+          "section": "Biography",
+          "text": "Sometime after \"The ABC's of Beth,\" Rick cloned her, resulting in two Beths. It is unknown which Beth is the original and which one is the clone."
+        },
+        {
+          "section": "Appearance",
+          "text": "Beth is a slender, pale fair-skinned woman of above average height with an oval-shaped face and slightly wavy shoulder-length blonde hair in a long bob cut, she also has a big bust. She wears berry pink-colored lipstick for makeup, has a pointed nose, and long eyelashes. She wears a short-sleeve V-neck collared desire-red polo shirt, straight-leg blue pants and slip-on white shoes. Beth admits that, since her unwanted pregnancy, her waistline has widened."
+        },
+        {
+          "section": "Appearance",
+          "text": "As a little girl, Beth wore a short-sleeve light red shirt with light blue shortalls, calf-length white frilly socks, and periwinkle Mary Jane shoes. She wears a white and light blue hair clip, two blue and green wristbands on her right wrist."
+        },
+        {
+          "section": "Personality",
+          "text": "Beth is an intelligent, ambitious, and independent woman who suffers from a variety of deep-seated insecurities. A dedicated veterinary horse surgeon, she is the family's main breadwinner and often tries to do the best for her family based on this sense of responsibility. She is highly insecure about her profession as a horse surgeon, and is quick to snap at the implication she is not a 'real' surgeon or a 'real' veterinarian. She may share this belief, wishing she had been able to continue her medical education to become a 'real' doctor in Rixty Minutes."
+        }
+      ],
+      "linked_terms": {
+        "Diane Sanchez (C-131)": "Diane Sanchez (C-131)",
+        "Dimension C-137": "Dimension C-137",
+        "Froopyland": "Froopyland",
+        "Hot Rick": "Hot Rick",
+        "Jerry Smith": "Jerry Smith",
+        "Meeseeks and Destroy": "Meeseeks and Destroy",
+        "Morty Smith": "Morty Smith",
+        "Morty Smith (C-131)": "Morty Smith (C-131)",
+        "Prime Dimension": "Prime Dimension",
+        "Raising Gazorpazorp": "Raising Gazorpazorp",
+        "Rick Sanchez": "Rick Sanchez (C-131)",
+        "Rixty Minutes": "Rixty Minutes",
+        "St. Equis Hospital": "St. Equis Hospital",
+        "Summer Smith": "Summer Smith",
+        "The ABC's of Beth": "The ABC's of Beth",
+        "Tommy": "Tommy"
+      }
+    },
+    {
+      "page": "Jerry Smith",
+      "category": "character",
+      "name": "Daren Voss",
+      "resolved_title": "Jerry Smith",
+      "page_id": 10482,
+      "revision_id": 127927,
+      "fetched_at_utc": "2026-11-01T01:36:47.592374+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Jerry_Smith",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Jerry_Smith?action=history",
+      "html_sha256": "1e9626cfd8df56fc71e73e2afba809aa01019a94fadbea9accd91fc4a18b03be",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Jerry is the husband of Beth Smith, the father of Summer Smith and Morty Smith, and the son-in-law of Rick Sanchez."
+        },
+        {
+          "section": "Overview",
+          "text": "Jerry is often noted as somewhat of a loser. He is most often characterized as struggling with employment and failing to connect with his family. However, he is capable of heroism in times of crisis and has saved his family's lives on several occasions."
+        },
+        {
+          "section": "Overview",
+          "text": "Jerry also has an adversarial relationship with his father-in-law, Rick and he often competes with the latter for the admiration of his family. However, that hasn't stopped Jerry from becoming more involved in Rick's space adventures."
+        },
+        {
+          "section": "Description",
+          "text": "Jerry is the husband of Beth Smith, the father of Summer Smith and Morty Smith, and the son-in-law of Rick Sanchez and Diane Sanchez. He is also the son of Leonard Smith and Joyce Smith, the nephew of an unnamed man, and the grandson of Nana and Pop-Pop. He currently acts as the father and the son-in-law of Morty Smith from Prime Dimension and Rick Sanchez from Dimension C-137, respectively. The same goes for Beth and Summer. He acts as the father of Summer Smith from Dimension C-131 and as the husband of Beth Smith from the same dimension."
+        },
+        {
+          "section": "Description",
+          "text": "Jerry always tries to think of the best interest of the family, but his attempt to be the patriarch of the family can often be misguided by his self-centered nature. This causes him a great deal of conflict with Rick, as his father-in-law clearly has no respect for him whatsoever."
+        },
+        {
+          "section": "Description",
+          "text": "He was staying at the Jerryboree and was accidentally switched with Jerry Smith from Dimension C-131 before being taken home by Rick and Morty. This wouldn't be revealed until \"Solaricks\" when Jerry was sent back to his home dimension, before being rescued by Rick."
+        },
+        {
+          "section": "Biography",
+          "text": "Jerry Smith (5126) was born to Joyce and Leonard Smith in the Dimension 5126. He met Beth 5126 in high school. When she was 17, Jerry accidentally got her pregnant. They got married and had a daughter, Summer 5126, followed three years later by a son, Morty 5126. Their marriage was complicated, but they lived together nonetheless."
+        },
+        {
+          "section": "Biography",
+          "text": "One day, Rick C-137 was teaching Morty Prime how to fly the Space Cruiser. Jerry C-131 was with them, but Rick hadn't noticed him. Upon spotting his son-in-law, he flew into a rage and took Jerry to Jerryboree—a daycare for alternate versions of Jerry. There, Jerry C-131 spent the entire day getting to know other Jerrys. Later, Rick and Morty returned to the daycare to pick up Jerry. However, Morty had lost the claim ticket, making it impossible to verify if the Jerry there was theirs; consequently, Rick Sanchez (5126) proposed swapping Jerry C-131 for Jerry 5126. From that point on, Jerry 5126 became the Jerry—a member of the Smith family—while Jerry C-131 became a member of the 5126 Smith Family."
+        },
+        {
+          "section": "Biography",
+          "text": "After the Galactic Federation took over Earth in \"The Wedding Squanchers\", the travelers were forced to leave the planet. Consequently, Jerry secured a job with the Galactic Federation and earned a measure of respect from Beth—placing him in her favor over Rick. Afterward, he returned to his family. As a result, Jerry lost his job and issued an ultimatum to Beth: it was either him or Rick. She chose her father by proxy, which led to her divorce from Jerry."
+        },
+        {
+          "section": "Biography",
+          "text": "For the first time in a long while, he encountered his original family. Given the nature of the relationship they had with Jerry C-131, they treated their own original Jerry with hatred. This made him feel uncomfortable, until the Smith family returned for him. Following that, he left his home dimension."
+        },
+        {
+          "section": "Appearance",
+          "text": "He is of European-American descent. Jerry has a medium complexion and has scruffy, dirty brown hair, with slight curls. He has dimples and wears a dark green shirt, with a brown and beige stripe in the middle. He also wears light blue long pants and black shoes. Notably, he shares the exact same face with his daughter, Summer. At 5'10\" (1.78 m), he is the second tallest member of the Smith-Sanchez family, behind Rick."
+        },
+        {
+          "section": "Personality",
+          "text": "Though because of those around him, and by comparison to other, less than ordinary characters, is commonly relegated to less than a punchline, being often viewed by other characters as an obnoxious loser, a pathetic father, and a pitiful husband."
+        }
+      ],
+      "linked_terms": {
+        "Beth Smith": "Beth Smith",
+        "Diane Sanchez": "Diane Sanchez",
+        "Dimension 5126": "Dimension 5126",
+        "Dimension C-131": "Dimension C-131",
+        "Dimension C-137": "Dimension C-137",
+        "Galactic Federation": "Galactic Federation",
+        "Joyce": "Joyce Smith (5126)",
+        "Joyce Smith": "Joyce Smith (5126)",
+        "Leonard Smith": "Leonard Smith (5126)",
+        "Morty Smith": "Morty Smith",
+        "Nana": "Nana",
+        "Pop-Pop": "Pop-Pop",
+        "Prime Dimension": "Prime Dimension",
+        "Rick": "Rick",
+        "Rick Sanchez": "Rick Sanchez",
+        "Smith Family": "Smith Family",
+        "Space Cruiser": "Space Cruiser",
+        "Summer Smith": "Summer Smith",
+        "The Wedding Squanchers": "The Wedding Squanchers"
+      }
+    },
+    {
+      "page": "Evil Morty",
+      "category": "character",
+      "name": "Vex Talen",
+      "resolved_title": "Evil Morty",
+      "page_id": 3017,
+      "revision_id": 128547,
+      "fetched_at_utc": "2026-11-01T01:36:49.678752+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Evil_Morty",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Evil_Morty?action=history",
+      "html_sha256": "605a58857c3981aa3a91e8fac8ec313311bfb1a8f13b7b2cdc225920aded354f",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "He is one of the many versions of Morty from across the multiverse, but unique in being notably amoral, ruthless and displaying intelligence rivalling that of Rick. He initially appeared alongside Evil Rick, who was hunting down and killing several Ricks throughout the multiverse. It was later revealed Evil Rick was merely being controlled by Evil Morty, although he remained undetected and travelled to the Citadel by posing as one of the Mortys liberated from Evil Rick's lair."
+        },
+        {
+          "section": "Overview",
+          "text": "He served as the first Morty to be democratically elected President of The Citadel, and had consolidated his power in a coup by eliminating any disagreeable Ricks in the Shadow Council of Ricks. He later used this rise to power to fabricate an escape from the Central Finite Curve, destroying almost the entire Citadel and killing countless Ricks and Mortys in the process. Despite his hope to be rid of Rick once and for all, he finds himself dragged into Rick C-137 and Morty Prime's circle of influence, reluctantly cooperating with them as they face off against the bigger existential threat of Rick Prime and the Omega Device."
+        },
+        {
+          "section": "Overview",
+          "text": "Evil Morty assisted Rick C-137 in taking down Rick Prime, and stole the plans for the Omega Device in the process. He left after warning Rick to leave him alone, lest he use the Omega Device to end the \"Rick experiment\" once and for all. He later returned to blackmail Rick into helping with his plans until Rick destroys his version of the Omega Device, ensuing a fierce battle. Evil Morty uses a time device he reverse engineered from Rick's time travel box to freeze time, gloating that he is willing to use time travel unlike Ricks. However, the Time Cops arrive and arrest Evil Morty for messing with time, which was Rick's plan all along as he knew Evil Morty would be cocky enough to mess with time. Evil Morty is then sent to an unknown time prison."
+        },
+        {
+          "section": "First moves",
+          "text": "As revealed in \"Unmortricken\", Evil Morty was once another Morty, constantly mistreated and dragged on adventures. One day, he grew fed up with his Rick and got him blackout drunk while he engineered a device that would allow him to control Rick, to be hidden underneath a black eyepatch. He scalped him and attached the device to his brain. After that, Evil Morty teleported to the Morty Agency in the Citadel, killed the employees and erased himself from the database. Apparently, his original goal was to destroy the rule of Ricks. He built/occupied the base of operations on the planet Crustula and went about kidnapping Ricks and Mortys: Ricks for information about the Citadel and absorbing their knowledge and Mortys to use them as cloaking devices to hide the brain waves of his Rick from the Citadel. He eventually found out about the Central Finite Curve."
+        },
+        {
+          "section": "First moves",
+          "text": "He first appears in \"Close Rick-counters of the Rick Kind\", where at first it appears he is simply a sidekick to Evil Rick, assisting him in killing twenty-seven known Ricks from various dimensions and capturing, torturing, and enslaving hundreds of Mortys to use them as cloaking devices to hide from the Citadel. Earlier Evil Morty hacked Rick C-137's portal gun and uploaded his own portal travel history and sent it to the Citadel authorities to frame C-137 so they could arrest him for killing and kidnapping of Ricks and Mortys. Then Rick C-137 escaped and found out the source of the hack to go to Evil Morty's controlled territory by getting caught. Evil Morty downloaded Rick C-137's brain and found out that he created the Central Finite Curve. To escape it he needed to get access to all the resources of the Citadel."
+        },
+        {
+          "section": "Rise to power",
+          "text": "A year later, in \"The Ricklantis Mixup,\" now going by the alias \"Candidate Morty\" (survived the Citadel battle in \"The Rickshank Rickdemption\" or was absent from the Citadel at that time), he secretly develops an alter-ego to become a presidential candidate in an election for the newly democratic Citadel of Ricks. His candidacy is considered a joke by the Ricks of the Citadel due to being a Morty who no one takes seriously, including his Campaign Manager Morty. But, after making a rousing speech about the class divide between the various Ricks and Mortys on the Citadel during the debate, he quickly earned praise and support."
+        }
+      ],
+      "linked_terms": {
+        "Campaign Manager Morty": "Campaign Manager Morty",
+        "Central Finite Curve": "Central Finite Curve",
+        "Citadel": "The Citadel",
+        "Citadel of Ricks": "Citadel of Ricks",
+        "Close Rick-counters of the Rick Kind": "Close Rick-Counters of the Rick Kind",
+        "Crustula": "Crustula",
+        "Evil Rick": "Evil Rick Sanchez",
+        "Morty": "Morty Smith",
+        "Morty Agency": "Morty Agency",
+        "Omega Device": "Omega Device",
+        "Rick": "Rick Sanchez",
+        "Rick Prime": "Rick Prime",
+        "Shadow Council of Ricks": "Shadow Council of Ricks",
+        "The Citadel": "The Citadel",
+        "The Ricklantis Mixup": "The Ricklantis Mixup",
+        "The Rickshank Rickdemption": "The Rickshank Rickdemption",
+        "Time Cops": "Time Cops",
+        "Unmortricken": "Unmortricken"
+      }
+    },
+    {
+      "page": "Rick Prime",
+      "category": "character",
+      "name": "Veyran Oris",
+      "resolved_title": "Rick Prime",
+      "page_id": 16665,
+      "revision_id": 128481,
+      "fetched_at_utc": "2026-11-01T01:36:51.791044+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Rick_Prime",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Rick_Prime?action=history",
+      "html_sha256": "ddacf4caf435a9f2f99dea8da1202226d131b5754db8f175e7e23fcbacc293dc",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "He was the Rick who was responsible for the deaths of Diane in every single dimension, and Beth Sanchez in Dimension C-137. Rick C-137 attempted to find and kill Rick Prime throughout the multiverse for decades, killing countless other Ricks in the process."
+        },
+        {
+          "section": "Overview",
+          "text": "In \"Solaricks\", Rick C-137 resets portal travelers, thereby sending Rick Prime back to his original dimension. Rick Prime then encounters Jerry Prime and kills him."
+        },
+        {
+          "section": "Overview",
+          "text": "In \"Unmortricken\", it is revealed that Rick Prime invented a weapon known to inferiors as the Omega Device (though Rick Prime claims that the device is \"too cool for a name\" and inferiors meaning lesser ricks, ie, ones who didn't invent portal travel on their own, but ones who just took it from others who actually did, such as Rick Prime and Rick C-137), which has the power to erase an individual from every dimension, as well as interfere with other people's memories of that individual. Rick C-137 and Evil Morty temporarily join forces, and managed to track down Rick Prime. They engage him in a vicious fight, which they barely win. Evil Morty then steals Rick Prime's schematics for the Omega Device before giving Rick C-137 the opportunity to kill his nemesis. Rick Prime, defiant to the end, ceaselessly mocks Rick for becoming like him as he is slowly beaten to death."
+        },
+        {
+          "section": "Overview",
+          "text": "Following Rick Prime's death, Rick C-137 briefly became depressed, as he no longer had a goal now that his nemesis was dead. However, Morty intervened and encouraged Rick to resume their regular adventures. Rick Prime's legacy briefly lived on with Evil Morty, who took the plans for the Omega Device and used them to threaten Rick C-137, lest he put an end to the \"Rick experiment\", before Rick C-137 took advantage of Evil Morty's complacency and used the Omega Device on its own blueprints, wiping out the weapon forevermore."
+        },
+        {
+          "section": "Appearance",
+          "text": "Rick Prime had more grayish skin than other versions of Ricks, as well as more dull-colored hair in a \"nondescript\" haircut. He wore a purplish \"sci-fi\" jacket with a gray shoulder pad and a red shirt underneath. After many years, his appearance was completely unchanged, implying that he either transferred his mind to a cloned body or his healing abilities also give him longevity."
+        },
+        {
+          "section": "Personality",
+          "text": "Rick C-137 refers to Rick Prime as \"the real deal\" to Morty Prime. His reasoning for this is that Rick Prime was a narcissist who actively hated attachments to his family to the point that he was willing to abandon them for over 20 years. Rick Prime also believed other Ricks should follow suit, leading him to murder Beth and Diane from Dimension C-137, thus doing away with Rick C-137's attachments in that world. When certain Ricks defied him, he decided to teach them a lesson by committing the deplorable act of wiping out all versions of Diane across the multiverse."
+        },
+        {
+          "section": "Personality",
+          "text": "Being a Rick, he shares all of his counterpart's intellect and resourcefulness, though he does not seem to indulge in any hedonistic acts like drinking or partying. It is possible Rick Prime is somewhat more intelligent than most other Ricks, as he states that he and Rick C-137 are the only Ricks to ever figure out inter-dimensional portal travel on their own. (All other Ricks having been gifted the technology by Prime himself, or other Ricks whom Prime gave it to.) Like most Ricks though, Prime shows signs of hypocrisy, being willing to kill his original Morty, yet acting shocked when Evil Morty, whom he mistook for his biological grandson, attacked him."
+        },
+        {
+          "section": "Personality",
+          "text": "In a sense, Rick Prime's personality is what Rick pretended to be for years, a self-absorbed man who didn't care about anyone, upholding the nihilistic philosophy that all other Ricks project. Despite this, he does appear to have some affection for his family. He held some fondness for Slow Mobius, saying that killing him would hurt and having a look of sorrow when he subjected Slow Mobius to the Omega Device. When he thought he met his original Morty, actually Evil Morty, he attempted to make small talk before killing him and later praised Evil Morty's ruthless nature, even attempting an alliance. He also appeared outraged that Rick C-137 had lived in his house with his daughter and grandson."
+        }
+      ],
+      "linked_terms": {
+        "Beth Sanchez": "Beth Sanchez (C-137)",
+        "Diane": "Diane Sanchez",
+        "Dimension C-137": "Dimension C-137",
+        "Evil Morty": "Evil Morty",
+        "Omega Device": "Omega Device",
+        "Slow Mobius": "Slow Mobius",
+        "Solaricks": "Solaricks",
+        "Unmortricken": "Unmortricken"
+      }
+    },
+    {
+      "page": "Space Beth",
+      "category": "character",
+      "name": "Selra Aster",
+      "resolved_title": "Space Beth",
+      "page_id": 28026,
+      "revision_id": 128220,
+      "fetched_at_utc": "2026-11-01T01:36:53.867044+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Space_Beth",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Space_Beth?action=history",
+      "html_sha256": "7d1e1d9a0a36786f38c123843e438ed76b0b6a56260ea57cea600afaa3cc2651",
+      "paragraphs": [
+        {
+          "section": "Biography",
+          "text": "At the end of \"The ABC's of Beth\", Beth had a revelation about herself and Rick gave her the opportunity to go out into the universe and see where it takes her. He offered to make a clone of her with all her memories to take over her life on earth until she returned. Beth asked him to decide, whether or not he wanted his daughter in his life. Unable to decide, he went ahead and made the clone, labeled \"Clone Beth\". He put both Beths in sleep pods, then purposefully removed the labels on the pods and had their positions shuffled so that he himself would not know which Beth was the clone. He sent one Beth out into space and kept the other at home. He wiped his own memory of the incident (later, this leads him to finally admit to himself that he is a terrible father)."
+        },
+        {
+          "section": "Biography",
+          "text": "During her adventures in space, Space Beth joined a vigilante group called The Defiance, who were waging war against the Gromflomites and were working to stop them from reestablishing the Galactic Federation."
+        },
+        {
+          "section": "Biography",
+          "text": "By the time of \"Star Mort Rickturn of the Jerri\", Space Beth has gone on several space adventures to reach the most wanted status. A Defiance Doctor discovers a chip implanted in her neck that will seemingly kill her should she return to Earth and get in proximity of the other Beth. She removed the chip and returns to Earth to murder Rick for lying to her, as well as the other Beth, but Rick makes her see the other Beth has a chip too. According to Rick, the other Beth's chip would have transferred a copy of her memories to Space Beth before vaporizing her. She relents and Rick invites her to lunch after they are shown equal in gadgets. She talks with him, surprised the other Beth is still with Jerry before they come under attack, during which, Rick inadvertently implies Space Beth may be the actual clone. Space Beth tracks down her father and counterpart who wanted to talk with her, causing a crash. Space Beth catches up and nearly succeeds in killing her before they are kidnapped by Tammy. While incarcerated, they talk about their contrasting lives and they reach common ground. Working together, the two versions of Beth defeat the aliens and both come to help Rick with Phoenixperson, and they both are impressed with Jerry coming in handy. Space Beth also meets Summer and Morty who are amazed to have two versions of their mother. At the end, it is revealed Rick doesn't know which Beth is which, as he erased his own memory. However, the two versions of Beth and wider Smith family are content with the mystery, as they now respect one another and are unwilling to give Rick any sense of satisfaction."
+        },
+        {
+          "section": "Biography",
+          "text": "In \"Mortyplicity\", Space Beth returned to space and bumped into her family along the way, before returning home with them. Rick commented that may happen more often, something Space Beth politely declined on. After Rick discovered his decoy families went rogue, Space Beth and the other Beth question this."
+        },
+        {
+          "section": "Biography",
+          "text": "In \"Solaricks\", Space Beth rescues Rick and Morty and brings them back to Earth, and is pressed to stick around with the family by Summer. She, Summer and Beth are sent to the Citadel to loot and fight scavengers but playing a role in bringing the family back together, but Summer's favouritism towards Space Beth drives jealousy between her and Beth. They argue until they are consumed by a monster, then apologize, with Space Beth expressing her lack of interest in anyone's approval. Summer then exasperatingly scolds them both, she expresses that she would want Space Beth to be around more like a mother, and admits later her favouritism is fleeting and not to worry about it so much. Due to the Earth being frundled, Space Beth and the rest of the family are forced to relocate to another dimension. She buries the native Space Beth in the backyard, as the other family members bury their respective counterparts. After more apologies to Beth, before Space Beth suggests boundaries are good while admitting she would like to relax her own."
+        }
+      ],
+      "linked_terms": {
+        "Defiance Doctor": "Defiance Doctor",
+        "Galactic Federation": "Galactic Federation",
+        "Gromflomites": "Gromflomites",
+        "Mortyplicity": "Mortyplicity",
+        "Solaricks": "Solaricks",
+        "Star Mort Rickturn of the Jerri": "Star Mort Rickturn of the Jerri",
+        "The ABC's of Beth": "The ABC's of Beth"
+      }
+    },
+    {
+      "page": "Birdperson",
+      "category": "character",
+      "name": "Avor Kel",
+      "resolved_title": "Birdperson",
+      "page_id": 3177,
+      "revision_id": 127727,
+      "fetched_at_utc": "2026-11-01T01:36:56.166415+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Birdperson",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Birdperson?action=history",
+      "html_sha256": "6fd8442e53b397f3222467dc0e2d8d051699362d9a11bd9564e964205e57b851",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "He and Tammy later get married, only for Tammy to reveal herself as a Galactic Federation agent out to kill Birdperson, arrest Rick, and all of his associates. Despite being shot multiple times, Birdperson is soon resurrected by the Federation as the cyborg Phoenixperson in order to serve them. In \"Star Mort: Rickturn of the Jerri\", Phoenixperson - under the control of the Galactic Federation - comes face to face with Rick, and fights him, almost killing him, before being shut down by Space Beth."
+        },
+        {
+          "section": "Overview",
+          "text": "Following the destruction of the federation, Phoenixperson was salvaged by the Smith family and resided in Rick's garage lab, until Rick restored him to normal. Birdperson then discovered he had a daughter with Tammy and went to search for her."
+        },
+        {
+          "section": "Biography",
+          "text": "Rick-C137 and Memory Rick eavesdrop on a meeting between Resistance fighters where a Grapflapian says, \"Some of us still have home planets to protect,\" to which Birdperson responds, \"And some of us do not. We need to fight. The impassive is incapable of mercy.\" Altogether, this seems to imply that Birdperson's home planet was destroyed by the Federation (likely via the infection shown that causes glowing red eyes and a loss of reason in Birdpeople), which is why he joined the Freedom Fighters."
+        },
+        {
+          "section": "Biography",
+          "text": "He is also one of the very few party-goers who remains behind to help clean up, although he may have just been waiting for Tammy to be ready to leave."
+        },
+        {
+          "section": "Biography",
+          "text": "When Morty shows his frustration at the party's mess as it would mean no more adventures with Rick if his parents see the house in this state, Birdperson informs Morty that \"Wubba lubba dub dub\" means \"I am in great pain, please help me\" in his native language. Morty is skeptical that Rick actually means this, though this knowledge spurs him to eventually press Rick into action to preserve their ability to go on adventures together."
+        },
+        {
+          "section": "Biography",
+          "text": "He explains to Morty that leaving Rick was a \"dick move\", and that Rick really does care about him. Furthermore, if it wasn't for Rick, he [Birdperson] would be dead and would never have met Morty. He then recharges the Portal gun and sends Morty back to Rick."
+        },
+        {
+          "section": "Biography",
+          "text": "In \"Get Schwifty,\" it can be noted that Birdperson and Rick have been acquainted for years, as there are many picture frames containing Rick on his wall. During Birdperson's early adulthood, he, Rick and Squanchy formed a band called \"The Flesh Curtains\", where Birdperson was featured as the main singer. Birdperson can also be seen beside a younger Rick, and some sort of aircraft."
+        },
+        {
+          "section": "Biography",
+          "text": "In \"The Wedding Squanchers\", he and Tammy get married and have a huge wedding party. During this time, he confessed to Beth that he and Rick are wanted by the Galactic Federation for committing \"crimes in the name of freedom\" which Beth shrugs off. Shortly after, during the reception, Tammy reveals herself to be a member of the Galactic Federation's secret service and shoots Birdperson multiple times, followed by a shootout with the rest of the criminals in the room."
+        },
+        {
+          "section": "Phoenixperson",
+          "text": "Tammy and the Gromflomites resurrected Birdperson as a cyborg and renamed him Phoenixperson. Although Tammy wanted his name to be Cyberbird, she didn't push hard enough to make that official. She settled on Phoenixperson and took off with him."
+        },
+        {
+          "section": "Phoenixperson",
+          "text": "In \"Star Mort Rickturn of the Jerri\", Rick came face to face with Phoenixperson where they briefly talked and started fighting as soon as Rick said that he killed Tammy. Phoenixperson flew into a rage and fought Rick to death. During their fight, Rick mentioned how he wondered who would win in a fight between them, to which Phoenixperson replied that Rick was \"always a bad friend.\" The fight seemed to gain in favor of Phoenixperson, as Rick was suffering from massive injuries to the point where his cyber-augmented intestines spilled out. Just before Rick was about to accept his death, the fight was interrupted by both Beth and her counterpart Space Beth. However, Phoenixperson ended the fight quickly. Just before he could kill Rick, Jerry (equipped with the invisible belt) used Tammy's corpse to pretend that she was still alive. Phoenixperson was surprised but was suspicious by how she was acting. Jerry then tripped on top of the corpse, accidentally uncloaking himself."
+        }
+      ],
+      "linked_terms": {
+        "Beth": "Beth Smith",
+        "Galactic Federation": "Galactic Federation",
+        "Get Schwifty": "Get Schwifty",
+        "Gromflomites": "Gromflomites",
+        "Portal gun": "Portal gun",
+        "Space Beth": "Space Beth",
+        "Star Mort Rickturn of the Jerri": "Star Mort Rickturn of the Jerri",
+        "Tammy": "Tammy Guterman",
+        "The Wedding Squanchers": "The Wedding Squanchers"
+      }
+    },
+    {
+      "page": "Squanchy",
+      "category": "character",
+      "name": "Zorvik",
+      "resolved_title": "Squanchy",
+      "page_id": 3268,
+      "revision_id": 128438,
+      "fetched_at_utc": "2026-11-01T01:36:58.402449+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Squanchy",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Squanchy?action=history",
+      "html_sha256": "a6908d46aa491d3a16696546ca8f91c22c344dd6af38c65404f3d2259d05064b",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Squanchy is a cat-like anthropomorphic creature, who is a very close friend of Rick and Birdperson. He appears to share Rick's love for alcohol and partying."
+        },
+        {
+          "section": "Overview",
+          "text": "It has been shown Squanchy once fought alongside Rick and Birdperson in a rebellion against the Galactic Federation. This would later come back to hurt the trio, as they were ambushed at Birdperson's wedding several decades later. Squanchy transformed into his berserker form and fought off the Federation army whilst Rick escaped with his family. He ultimately survived the encounter and returned to living peacefully on his home planet."
+        },
+        {
+          "section": "Biography",
+          "text": "In \"The Wedding Squanchers\", after Tammy reveals herself as a deep cover agent for the Galactic Federation and the wedding reception is ambushed by Gromflomites, Squanchy tells Rick to save his family and get out of there before pulling out one of his teeth and breaking it in half to consume a green liquid substance, which subsequently turns him into a giant version of himself with superhuman strength and endurance."
+        },
+        {
+          "section": "Biography",
+          "text": "However, when Rick is mining Death Crystals in \"Edge of Tomorty: Rick Die Rickpeat\", one of his possible deaths is being ripped in half by Squanchy in his berserker form. This future could have only been a possibility if Squanchy survived his fight with Tammy. This is later confirmed to be true, as Squanchy returns in \"How Poopy Got His Poop Back\" and Rick directly comments on him surviving the battle at the wedding."
+        },
+        {
+          "section": "Biography",
+          "text": "He is first seen participating in The Battle of Blood Ridge with Rick and Birdperson as apart of the Freedom Fighters Crew. He is later seen attending Geardude's funeral and mourning over him as Rick mentions him having a distasteful eulogy. He is also seen performing stand-up at a bar during his terrible stand-up phase which Rick and Birdperson attend. He is again seen at the Birding Manapalooza Flargabarg as he, Rick, and Birdperson go on stage to perform and form The Flesh Curtains."
+        },
+        {
+          "section": "Biography",
+          "text": "After gathering the group fully, they all go to a bar called F#%k You's, where they begin drinking and partying instead. Afterwards they party and go to several other locations, they meet Hugh Jackman and party at his house. After deciding that he and the others are going to find Mr. Poopybutthole's ex-wife Amy, Squanchy and the others proceed to her house, where they discover she is having an affair with a Predator private investigator named Gul'Karna, who begins hunting and attacking them. During their confrontation with the Predator, Squanchy pulls out a tooth and consumes the green liquid substance in order to become his giant self but is unable to do so properly due to being drunk. After Mr. Poopybutthole's situation is resolved, Squanchy takes a \"fading pill\" and checked himself into rehab. However, he did not stick with it and was later arrested for smuggling toad venom across the border."
+        },
+        {
+          "section": "Appearance",
+          "text": "Squanchy is a short orange cat-person with a tiny blue nose, a dark brown goatee, messy fur and whiskers. He has a naked tail with a brown tuft of hair on its tip. When he drinks the green liquid from his tooth, he becomes a big, muscular cat-person with green eyes, a larger beard, vast tufts of hair on his giant shoulders, black claws, and sharper teeth."
+        },
+        {
+          "section": "Personality",
+          "text": "He appears to a good friend of Rick's. Personality-wise, he is a party animal who behaves very wildly."
+        },
+        {
+          "section": "Personality",
+          "text": "He is also a very loyal friend of Rick and Birdperson, as when the Galactic Federation crashes Birdperson's wedding and winds up mortally injuring Birdperson, Squanchy tells Rick to escape with his family whilst he would remain and fight off the Federation forces. Whilst Squanchy was eventually revealed to have survived this battle, this shows he was willing to die to protect his friends. Before the battle, despite his loyalty to Rick, he was shown to be disappointed by Rick calling Birdperson his best friend. Squanchy responded by removing a friendship bracelet inscribed with \"Rick's BFF\"."
+        },
+        {
+          "section": "Personality",
+          "text": "Squanchy also has a habit to replace most of his verbs with the term \"squanch\" as it is native to his species' dialect, much like how the Smurfs say \"smurf\" instead of certain words. Beth draws this comparison upon meeting him for the first time at Birdperson's wedding."
+        }
+      ],
+      "linked_terms": {
+        "Birding Manapalooza Flargabarg": "Birding Manapalooza Flargabarg",
+        "Birdperson": "Birdperson",
+        "Freedom Fighters Crew": "Freedom Fighters Crew",
+        "Galactic Federation": "Galactic Federation",
+        "Geardude": "Geardude",
+        "Gul'Karna": "Gul'Karna",
+        "How Poopy Got His Poop Back": "How Poopy Got His Poop Back",
+        "Hugh Jackman": "Hugh Jackman",
+        "Mr. Poopybutthole": "Mr. Poopybutthole",
+        "Rick": "Rick",
+        "Tammy": "Tammy Guterman",
+        "The Battle of Blood Ridge": "The Battle of Blood Ridge",
+        "The Wedding Squanchers": "The Wedding Squanchers"
+      }
+    },
+    {
+      "page": "Unity",
+      "category": "character",
+      "name": "The Confluence",
+      "resolved_title": "Unity",
+      "page_id": 4598,
+      "revision_id": 127649,
+      "fetched_at_utc": "2026-11-01T01:37:00.364146+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Unity",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Unity?action=history",
+      "html_sha256": "23fabb31ec1c93fa0c6772f41e675e19ce72dea3d30e7e07f3d9d1c430310acf",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Unity is a hivemind and Rick Sanchez's former lover. They take the forms of multiple races, sexes, and species, and use both male and female avatars around Rick."
+        },
+        {
+          "section": "Biography",
+          "text": "After Rick, Morty and Summer follow a distress signal coming from a seemingly 'abandoned' ship, a group of Nippalians ask for Rick's help to defeat the evil entity that's taking over their minds. Using the assimilated members of the crew, Unity takes control of the group's minds, and they recognize Rick. Rick introduces them to his grandchildren, and explains that he and Unity used to date."
+        },
+        {
+          "section": "Biography",
+          "text": "The four of them return to Unity's Planet. Unity speaks with Rick through its alien citizens, occasionally switching between avatars mid-conversation. They tell Rick their plans to manage an organization efficient enough to merge with the Galactic Federation, where they will have access to countless other worlds for them to assimilate until they become \"what the single-minded once called a god\". Rick is impressed by this, and the two quickly resume their relationship as lovers."
+        },
+        {
+          "section": "Biography",
+          "text": "While Rick and Unity rekindle their relationship, Unity also takes care of Summer and Morty. Unity has so much fun reconnecting with Rick and performing crazy stunts to impress him (especially making and ingesting fractal dust, a powerful drug) that they gradually lose control of their citizens."
+        },
+        {
+          "section": "Biography",
+          "text": "After regaining their free will, the citizens of the planet start a race war, chasing after Morty and Summer until a Unity-led SWAT team rescues them. Summer and Morty, traumatized, insist that Rick takes them all home. When Rick opens a portal for them and insists on staying behind, Summer explains that Rick has an unhealthy impact on Unity, and expresses her disapproval toward their relationship."
+        },
+        {
+          "section": "Biography",
+          "text": "Rick stays with Unity for a while longer, but after leaving to use the bathroom, emerges to find that Unity has deserted the city (and possibly the planet) and written breakup letters across every surface. They confess their love for Rick, but ultimately concedes that they cannot be together. Rick returns home and attempts suicide, but narrowly fails."
+        },
+        {
+          "section": "Biography",
+          "text": "As shown from \"Air Force Wong\", Unity still cares a lot for Rick despite how they ended their relationship and tried to check up on him multiple times via call and later went to Earth when they heard that he had begun to hunt for \"him\" once again. When Rick continually ignores them, they resort to the extreme by taking over the entire state of Virginia."
+        },
+        {
+          "section": "Biography",
+          "text": "After President Curtis and Dr. Wong investigate Virginia after hearing reports of a cult there, Rick claims that he and Unity agreed that the latter would not take over Earth. Rick and President Curtis secure the state using a dome and Unity approaches Earth in their space vessel to speak to them via video chat. Unity and Rick get into an argument as Unity leaves despite their hivemind not properly released. After President Curtis takes over the hivemind, Rick and Dr. Wong meet Unity in their space vessel in order to get their help as Rick and Unity get into another argument. Dr. Wong sides with Unity as Rick ignored their voicemails and tells them that Rick is changing slowly in which Unity agrees to help them by reconnecting them. At the end, Unity releases everyone from their hivemind on Earth but does not trust Rick anymore as Rick leaves their space vessel due to ruining his chance to reconcile with them."
+        },
+        {
+          "section": "Abilities",
+          "text": "Unity assimilates others into the hivemind by using one of its hosts to vomit into another individual's mouth. Unity's hosts have been seen acting animalistic while spreading (screeching and pointing at unassimilated individuals), although Unity can imitate natural 'humanoid' behavior as well while in a passive, controlled state. It has individual control of everybody it assimilates. While many of Unity's hosts are shown to possess yellow sclerae, it has shown to be able to hide it to pose as single-minded."
+        },
+        {
+          "section": "Abilities",
+          "text": "All of Unity's avatars seem to possess the same brain while controlled by it, and Unity is able to move and speak transitionally through multiple planet-scale civilizations of people. However, Rick's blue serum seems to remove its control, leaving Unity able to direct less and less bodies at once and making them dizzy."
+        }
+      ],
+      "linked_terms": {
+        "Air Force Wong": "Air Force Wong",
+        "Dr. Wong": "Dr. Wong",
+        "Earth": "Earth",
+        "Galactic Federation": "Galactic Federation",
+        "Morty": "Morty",
+        "Nippalians": "Nippalians",
+        "President Curtis": "President Curtis",
+        "Rick": "Rick",
+        "Rick Sanchez": "Rick Sanchez",
+        "Summer": "Summer",
+        "Unity's Planet": "Unity's Planet"
+      }
+    },
+    {
+      "page": "Mr. Meeseeks",
+      "category": "species",
+      "name": "Taskling",
+      "resolved_title": "Mr. Meeseeks",
+      "page_id": 2267,
+      "revision_id": 127929,
+      "fetched_at_utc": "2026-11-01T01:37:02.303047+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Mr._Meeseeks",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Mr._Meeseeks?action=history",
+      "html_sha256": "8cd6ac122febbbaf80927de9f6e206efb9b708f5d666ccfb37902c67ccc7f38e",
+      "paragraphs": [
+        {
+          "section": "Biography",
+          "text": "Meeseeks are creatures who are created to serve a singular purpose for which they will go to any length to fulfill. After they serve their purpose, they expire and vanish into the air. Their motivation to help others comes from the fact that existence is painful to a Meeseeks, and the only way to be removed from existence is to complete the task they were called to perform. The first Meeseeks spawned attributed this invulnerability to their being unable to die until their purpose is fulfilled; whether this means it is physically impossible to kill a Meeseeks is unclear. In Edge of Tomorty: Rick Die Rickpeat, however, it's shown that Meeseeks can die of suffocation when exposed to the vacuum of space."
+        },
+        {
+          "section": "Biography",
+          "text": "They typically live for no more than a few hours, and thus two days is an eternity for Meeseeks. The longer the Meeseeks stay alive, the more sanity they begin to lose. Rick warns the Smith family to keep their tasks simple."
+        },
+        {
+          "section": "Biography",
+          "text": "If a Meeseeks is not given a purpose at the beginning of its existence, it seems to default to taking the purpose of the Meeseeks before it. This was seen when a Meeseeks created for Jerry created a second Meeseeks, which it then to kill a third Meeseeks that it was in an argument with. The Meeseeks then wildly began pressing the box without giving orders and all the resulting Meeseeks began trying in vain to kill the rest of the Meeseeks. Additionally, a Meeseeks can be persuaded to shift their purpose, as seen when the Meeseeks who were purposed to either help Jerry or kill the other Meeseeks were convinced by one to find and kill Jerry."
+        },
+        {
+          "section": "Appearance",
+          "text": "Mr. Meeseeks is a tall, powder-blue humanoid figure with elongated, narrow limbs. He has a large, bulbous head, beady black eyes, and a giant mouth that stretches across his face. He has a very high-pitched and strident voice, sometimes intoning in screeches. Some versions of him have one or more small patches of orange hair on their head. After being alive for more than several days, Mr. Meeseeks' skin will begin to develop discolored lesions accompanied by random tufts of dark quill-like hairs. Mr. Meeseeks' blood is pure white."
+        },
+        {
+          "section": "Appearance",
+          "text": "The Oni Exclusive cover of Rick and Morty Volume 6 shows the inside of a Mr. Meeseeks."
+        },
+        {
+          "section": "Personality",
+          "text": "Mr. Meeseeks exhibits a friendly, cheerful, and helpful demeanor; willing to assist the one who brought him into existence, however possible. Ideally, Mr. Meeseeks will dispatch the simple task given to him, and disappear shortly after its completion. However, if given a task that is outside of Mr. Meeseeks' capabilities, he will not be able to cease existing. This unusual lifespan will cause Mr. Meeseeks' attitude and mental state to worsen dramatically; the relatively long and tortuous existence quickly drives him to violent behavior and outright insanity. Meeseeks who have been spawned in tandem are seen to distrust and attack one another as their sanity decays, although they will continue to attempt any possible solution to their original purpose, including collaboration with other Meeseeks. The psychological and physical effects of existence upon Meeseeks (e.g. discoloration of skin, hair growth) can manifest in less than 24 hours. According to Jerry's original Mr. Meeseeks, two days is \"an eternity\" in Meeseeks time."
+        }
+      ],
+      "linked_terms": {
+        "Jerry": "Jerry Smith",
+        "Rick": "Rick Sanchez",
+        "Rick and Morty Volume 6": "Rick and Morty Volume 6"
+      }
+    },
+    {
+      "page": "Mr. Poopybutthole",
+      "category": "character",
+      "name": "Master Ovin",
+      "resolved_title": "Mr. Poopybutthole",
+      "page_id": 4729,
+      "revision_id": 127736,
+      "fetched_at_utc": "2026-11-01T01:37:04.426225+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Mr._Poopybutthole",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Mr._Poopybutthole?action=history",
+      "html_sha256": "e4c41f3829987cef3841d467da509a0f631956260771f0c594006dd2ca6a68e3",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Wayne Poopybutthole, more commonly referred to as Mr. Poopybutthole and formerly Professor Poopybutthole, is a long-time family friend of the Smith Family."
+        },
+        {
+          "section": "Description",
+          "text": "Rick clearly considers him to have long been a dependable person, although it's uncertain how long they've known each other."
+        },
+        {
+          "section": "Biography",
+          "text": "He is shown to have accompanied Rick and Morty on multiple adventures as well as experienced many great moments with the rest of the family. He is such a fond person to the family that Beth can't recall a single bad memory of him. It is revealed by that Mr. Poopybutthole is Jewish in his final appearance to date, as a Rabbi is shown to officiate his Wedding whilst he stomps on napkin-wrapped glass."
+        },
+        {
+          "section": "Biography",
+          "text": "Along with the rest of the family, Mr. Poopybutthole had to help the family figure out which new family friends were real and which ones were fake. Morty realizes that the Alien Parasites could only implant good memories into a person's mind, so every family member who had no negative memories affiliated with them was killed. This results in Beth Smith silently questioning whether or not Mr. Poopybutthole is actually one of the many parasites that made them believe they were long time friends. Beth pulls out one of Rick's laser guns and shoots Mr. Poopybutthole in the chest, blasting him across the room onto a wall. The rest of the family panic and Beth retreats into the kitchen and haphazardly pours a glass of wine with eyes filled with tears as Mr. Poopybutthole awaits an ambulance while bleeding heavily."
+        },
+        {
+          "section": "Biography",
+          "text": "After the credit sequence, Mr. Poopybutthole is shown slowly recovering inside the hospital. After telling the doctor that he no longer wishes to see the Smiths at this point in time, the doctor tells Beth that's he's sorry that \"They never had any bad memories of him.\""
+        },
+        {
+          "section": "Biography",
+          "text": "He was shown to be walking with a cane from the events of Beth shooting him in his previous appearance. Mr. Poopybutthole also swallows his (what are assumed to be) painkillers, pouring them into his mouth, without any water."
+        },
+        {
+          "section": "Biography",
+          "text": "His first lesson was about Maya Angelou when his class suddenly turned on him and started to fight him, but he beat all of them with no problem. Rick and Morty then appeared and recruited him for their heist (during which, as part of Randotron's scheme, he acts as an auctioneer in a livestock sale). Later, it is revealed that Rick paid Mr. Poopybutthole's students to attack him so he could trick him into joining their crew. However, Rick didn't know if the fact they all knew karate was coincidental or correlated to their interest for Maya Angelou. Mr. Poopybutthole expressed regret that being fired from his teaching job for putting his students in the hospital left him unable to explore that connection in his class and Rick apologized for it."
+        },
+        {
+          "section": "Biography",
+          "text": "After checking on the local Smith family, he learns that Diane is somehow alive there. (Despite the Omega Device being supposed to kill her in all dimensions.) Upon entering her house, he experiences flashbacks of his younger life, one of which involves Mr. Poopybutthole C-137. He stood between Rick and Diane and declared them husband and wife."
+        },
+        {
+          "section": "Biography",
+          "text": "However, he breaks his legs when trying to squat more than he can handle and cries to call his ex-wife on his trainer's phone as she blocked him on his phone."
+        },
+        {
+          "section": "Biography",
+          "text": "The family forces Rick to have an intervention for Mr. Poopybutthole as he gathers and recruits his friends Birdperson, Squanchy, and Gearhead as well as next-door neighbor Gene to help him. After gathering the group fully, they head to a bar called F#%k You's, where they begin drinking and partying instead. Afterwards they hit several other locations, they all eventually meeting up with Hugh Jackman and go to his house to party. Mr. Poopybutthole plans to find Amy and win her back with the help of Hugh and Rick's friends, but Rick rejects the idea and have an argument as Rick leaves. Rick then becomes back to help Mr. Poopybutthole with his plan as they go to her house, where Mr. Poopybutthole discover she is having an affair with a Predator private investigator Gul'Karna he hired to spy on her after getting a restraining order against him."
+        }
+      ],
+      "linked_terms": {
+        "Beth Smith": "Beth Smith",
+        "Birdperson": "Birdperson",
+        "Gearhead": "Gearhead",
+        "Gene": "Gene",
+        "Gul'Karna": "Gul'Karna",
+        "Hugh Jackman": "Hugh Jackman",
+        "Omega Device": "Omega Device",
+        "Predator": "Predators",
+        "Rick": "Rick Sanchez",
+        "Smith Family": "Smith Family",
+        "Squanchy": "Squanchy"
+      }
+    },
+    {
+      "page": "Krombopulos Michael",
+      "category": "character",
+      "name": "Nerok Tal",
+      "resolved_title": "Krombopulos Michael",
+      "page_id": 4655,
+      "revision_id": 127597,
+      "fetched_at_utc": "2026-11-01T01:37:06.496049+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Krombopulos_Michael",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Krombopulos_Michael?action=history",
+      "html_sha256": "741dd0ecc8e16f50eb595280486664020cd1aef678f901cfe0af22a64337acc3",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Michael, nicknamed Krombopulos Michael, was a Gromflomite assassin that purchased weapons from Rick Sanchez. He was also the husband of Amy. Rick refers to him as his best customer. His final purchase was an anti-matter handgun, to be used to kill Fart, a gaseous target that couldn't be destroyed with normal weapons. When he meets Rick at a garage to purchase the gun, Krombopulos introduces himself to Morty, giving him a business card."
+        },
+        {
+          "section": "Overview",
+          "text": "After breaking into the facility used to hold his target, he was crushed to death by Morty after falling asleep while piloting his grandfather's spaceship."
+        },
+        {
+          "section": "Overview",
+          "text": "Prior to his death, Krombopulos customarily handed out business cards that indicated his occupation, location, Twitter and Facebook accounts, and the hashtag #KMichaelKills."
+        },
+        {
+          "section": "Personality",
+          "text": "In Krombopulos Michael's own words, he loves to commit murder. He has absolutely no moralities and will kill anyone, including children. In contrast to his occupation as a cold-blooded assassin, Krombopulos Michael is a very upbeat and friendly person, as demonstrated when he met Morty."
+        },
+        {
+          "section": "Abilities",
+          "text": "Master assassin: Krombopulos Michael is a highly-skilled assassin. He was shown easily killing several Galactic Federation guards and was praised by Rick Sanchez, who is a highly capable fighter himself. Rick once mentioned that if Krombopulos Michael wants someone dead \"there's not a whole lot anyone can do to stop him.\""
+        }
+      ],
+      "linked_terms": {
+        "Amy": "Krombopulos Amy",
+        "Fart": "Fart",
+        "Gromflomite": "Gromflomites",
+        "Morty": "Morty Smith",
+        "Rick Sanchez": "Rick Sanchez"
+      }
+    },
+    {
+      "page": "Scary Terry",
+      "category": "character",
+      "name": "Kharon Vex",
+      "resolved_title": "Scary Terry",
+      "page_id": 2427,
+      "revision_id": 127596,
+      "fetched_at_utc": "2026-11-01T01:37:08.483549+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Scary_Terry",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Scary_Terry?action=history",
+      "html_sha256": "e14a7df9cbcf58410a01207a18363decd05d90768c900ae7c3253f5155a3649a",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "After a failed attempt at killing them, Scary Terry retreats and heads home. While he is asleep, Rick and Morty incept his dreams and befriend him, he is also the husband of Melissa, and the father of Scary Brandon."
+        },
+        {
+          "section": "Personality",
+          "text": "At first he first appears to be a bloodthirsty nightmare, but he is really just misunderstood. Scary Terry was very self-conscious about how scary he was and feared that he may not be terrifying enough to scare people, so he put a lot of pressure on himself because of that. This made him very tense and touchy, until Rick and Morty entered his dreams and made him feel better."
+        },
+        {
+          "section": "Appearance",
+          "text": "He wears a teal-and-green-striped sweater, gray slacks, a fedora, and gloves with tiny swords on his fingers. He has sharp teeth and deformed, dark-magenta skin. His eyes are cat-like, with yellow scleras, and he has a monobrow. As a teenager, when he forgot to wear pants one day, Rick and Morty gave him new ones. He also has a second pair of balls hanging from his chin, which he is known for using to say \"bitch\" after almost every sentence ends."
+        }
+      ],
+      "linked_terms": {
+        "Melissa": "Melissa",
+        "Morty": "Morty Smith",
+        "Rick": "Rick Sanchez",
+        "Scary Brandon": "Scary Brandon"
+      }
+    },
+    {
+      "page": "Snowball",
+      "category": "character",
+      "name": "Frostveil",
+      "resolved_title": "Snuffles",
+      "page_id": 2247,
+      "revision_id": 127856,
+      "fetched_at_utc": "2026-11-01T01:37:47.063063+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Snuffles",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Snuffles?action=history",
+      "html_sha256": "7977b183ac2603ae3bd18e03312434276ff0160aecdab0904045f9b26f67e0e1",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Snuffles is a small, fluffy white-haired dog that experiences some trouble with being potty-trained until Rick develops an IQ-enhancing helmet for him at the request of Jerry."
+        },
+        {
+          "section": "Biography",
+          "text": "Snuffles is a dog who is the house pet of the Smith family. Rick invents a helmet that would make him intelligent enough to understand what they were telling him to do. Eventually, he becomes smart enough to figure out a lot more things about how the humans have been treating him and modifies his helmet to let him communicate with them. He keeps building and learning more, until eventually, he and many other dogs take over and treat the Smith family as their pets, chaining Jerry, Beth, and Summer up in the backyard. He also reveals that he doesn't like the name \"Snuffles\" and now plans to go by \"Snowball\". However, when Morty returns from an adventure with Rick, Snowball decides he cannot hurt the only human who actually loved him, and decides instead to leave Earth to found a planet of intelligent dogs."
+        },
+        {
+          "section": "Biography",
+          "text": "Snuffles is seen sitting at the table while Rick \"plays cards\" with him."
+        },
+        {
+          "section": "Biography",
+          "text": "In \"Unmortricken\", in addition to Snuffles being pictured, we also see various alternate versions of him varied in appearance. However, Snuffles himself cannot be seen."
+        },
+        {
+          "section": "Appearance",
+          "text": "Snuffles is a little white dog with black, beady eyes and a little black nose. Snuffles also has a blue collar with a circular silver tag on it. It is unknown what breed of dog he is, but it's possible that he is either a Maltese, West Highland Terrier, Bichon Frise, or Shih Tzu."
+        },
+        {
+          "section": "Personality",
+          "text": "Snuffles is a kindhearted and playful, albeit dimwitted, dog. Despite his previous nature, once the IQ-enhancing helmet is placed upon him his personality traits change drastically. He becomes a harsh and cruel dog who soon learns of the humans' mistreatment of the canine race and uses his upgraded intelligence to raise a dog army to take over the world. He shows his kindness by sparing Morty and giving him anything he desires after he conquers the world, and later by giving up his wealth and kingdom to save a dying Morty, albeit in a dream."
+        },
+        {
+          "section": "Morty",
+          "text": "Morty is the only member of the family who Snowball declares he can't hurt. This is because Morty is the only member of the family who was actually nice to him. When Snowball was taking over the world and dominating all humans, Rick and Morty entered his dreams to stop him. After waking up from the dream, which involved Morty falling into critical condition, Snowball realized that colonization was not the answer, as dog-kind would not exhibit the cruelty seen from humans, and declared he and his kind would instead to go another planet and take that over, leaving their planet alone. Snowball leaves after sharing one last tearful hug with Morty."
+        },
+        {
+          "section": "Jerry",
+          "text": "Jerry wasn't too fond of Snowball, back when he lived in the house with him. He was annoyed with the things he did, particularly whenever he'd catch him peeing on the carpet. One time, Jerry rubbed Snowball's face in the urine stained carpet as a way of expressing his anger. When Snowball developed intelligence, he did the same thing back to him and did a lot of other things to him, such as forcing him to pull down his pants and rub his butt all over the carpet and was even attempting to go as far as to fix him, if it wasn't for Morty stopping him."
+        },
+        {
+          "section": "Powers And Abilities",
+          "text": "Enhanced Intellect: Rick invented a helmet to enhance Snuffles' intelligence, making him smart enough to build a mech, a translation device, and recreate the intelligence enhancer itself for use on other dogs."
+        },
+        {
+          "section": "Powers And Abilities",
+          "text": "Enhanced Strength: With his mech, Snuffles likely has physical strength surpassing an average human."
+        },
+        {
+          "section": "Powers And Abilities",
+          "text": "Leadership: Snuffles was able to build and command an army of intelligent dogs to take over humanity to an unknown extent. He was also able to call off the insurgence and lead the dogs to a new dimension with no resistance from his people."
+        }
+      ],
+      "linked_terms": {
+        "Jerry": "Jerry",
+        "Rick": "Rick",
+        "Unmortricken": "Unmortricken"
+      }
+    },
+    {
+      "page": "Dr. Wong",
+      "category": "character",
+      "name": "Dr. Ivara",
+      "resolved_title": "Helen Wong",
+      "page_id": 16656,
+      "revision_id": 127724,
+      "fetched_at_utc": "2026-11-01T01:37:50.908873+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Helen_Wong",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Helen_Wong?action=history",
+      "html_sha256": "681cfaec24d13365a94813b5949ad74d99c9089c103a669d4095be404821d236",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Dr. Helen Wong is a family therapist who the Smith Family visited after the events of Beth and Jerry's divorce. She has since become the family's regular therapist, with even Rick going to her for help beginning with \"Analyze Piss\" after years of avoiding it."
+        },
+        {
+          "section": "Appearance",
+          "text": "Dr. Wong is a tall and slender Chinese-American woman with a fair complexion, black hair worn in a bobbed style, and gray thick-rimmed glasses. She wears a yellow long-sleeved shirt, a beige wool jacket, a white necklace, and black pants, belt, and shoes."
+        },
+        {
+          "section": "Personality",
+          "text": "Dr. Wong is a perceptive, even-tempered, and intelligent woman, who displays a calm and disarming personality, to put people like her clients (dysfunctional families and coprophagia addicts) at ease so that she can help them with their problems. She tends to ask very simple, leading questions and responds to challenges to her profession with insightful monologues. She makes it her mission not to judge, so much so that she doesn't even bat an eye when Pickle Rick staggers into her office and takes a seat on the couch. She takes no offense to Rick's attempts to belittle her job, instead gently but thoroughly deconstructing the truth of why he avoided therapy. Though Rick predictably doesn't take her advice to heart, her takedown and summation of his character is enough to prevent him from making a retort."
+        },
+        {
+          "section": "Personality",
+          "text": "Despite her demeanor, the Smith family tests the limits of her patience: she is very blunt in telling Jerry his insistence on bringing a puppet to therapy is crazy. When Rick reveals he installed several voice-activated escape contingencies in the office (which mostly involve methods of killing her), and subsequently destroys it while saving Beth and Jerry from Tammy, Dr. Wong mutters to herself she is better than the job."
+        }
+      ],
+      "linked_terms": {
+        "Analyze Piss": "Analyze Piss",
+        "Beth": "Beth Smith",
+        "Jerry": "Jerry Smith",
+        "Pickle Rick": "Pickle Rick (character)",
+        "Smith Family": "Smith Family",
+        "Tammy": "Tammy Guterman"
+      }
+    },
+    {
+      "page": "Jessica",
+      "category": "character",
+      "name": "Liora",
+      "resolved_title": "Jessica (C-131)",
+      "page_id": 2243,
+      "revision_id": 127112,
+      "fetched_at_utc": "2026-11-01T01:37:54.626225+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Jessica_%28C-131%29",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Jessica_%28C-131%29?action=history",
+      "html_sha256": "2549d7e08cfe20c68feb909d2b3206a6282279fc87296c4c5865985595a28fa7",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Despite her relationship with Brad, Jessica had shown interest in Morty at several points, although the two were never able to fully commit to anything due to Morty's sci-fi adventures getting in the way. This would culminate in Jessica accidentally being transported to the Narnia Dimension and spending an indeterminate amount of time frozen in place yet fully conscious. This changed Jessica's perception of time and space, meaning she could no longer connect with Morty."
+        },
+        {
+          "section": "Overview",
+          "text": "In \"Solaricks\", Jessica is killed along with the entire human population of Dimension C-131 by Mr. Frundles while the Smith family manage to escape the dimension to live in the Parmesan Dimension, which is a dimension where the word \"parmesan\" is said differently."
+        },
+        {
+          "section": "Appearance",
+          "text": "Jessica is a teenage girl with shoulder-length ginger/orange hair, a pale complexion, and a pear-shaped body. She has long eyelashes and prominent light-peach lips. She is about a head taller than Morty. Day to day, she wears a pale cyan hairband, a form-fitting, periwinkle polo slightly unbuttoned, a box-pleated mauve miniskirt, pale cyan mid-calf socks, and plain white loafers."
+        },
+        {
+          "section": "Appearance",
+          "text": "In \"Ricksy Business\" when she attends Summer's and Rick's house party, she wears a dark magenta headband, a strapless, dark magenta dress with a sweetheart neckline, and a mini-length, narrow basque skirt cinched at the waist by a thin black belt with a square, silver buckle, and dark magenta, round-toe pumps."
+        },
+        {
+          "section": "Appearance",
+          "text": "In \"Big Trouble In Little Sanchez\" when Morty takes her to a school dance, she wears a lavender headband, a halter-strapped, lavender dress with a sweetheart neckline and a knee-length Basque skirt (either unlined or filled out thinly with tulle layers) cinched at the waist by a bisected, paler lavender belt, and paler lavender, square-toe pumps. We also see her wear this outfit during Morty's flashback of their date in \"Rickfending Your Mort\"; only here she wears white, pointed-toe high heels instead of pumps."
+        },
+        {
+          "section": "Appearance",
+          "text": "For all of her outfits, her make-up appears to just be black or dark mascara and pale pink lip gloss."
+        },
+        {
+          "section": "Personality",
+          "text": "She never shows any contempt for Morty and even greets him warmly despite their different popularity status. She also helps Rick track down Morty to bring him back to his normal self in \"Rest and Ricklaxation,\" and then shows concern after the process."
+        },
+        {
+          "section": "Personality",
+          "text": "She seems to consider abnormal things interesting, remaining surprisingly calm in various situations that would drive others crazy. In Pilot, she is impressed with Morty for coming into the cafeteria through a portal, and in \"Big Trouble In Little Sanchez\" when Morty tells her that tiny Rick is his grandpa in the body of a teenager, her only response is, \"Cool.\""
+        },
+        {
+          "section": "Personality",
+          "text": "After spending hundreds of years in the Narnia dimension frozen in a state of conscious cryostasis in \"Mort Dinner Rick Andre\", Jessica takes on a distinctly philosophical mindset about her place in the universe and time. It remains to be seen how this has affected her overall personality as she is only shown in the immediate aftermath of getting rescued, but she seems to now think of herself as a \"time god.\""
+        },
+        {
+          "section": "Biography",
+          "text": "Morty Smith has an obvious crush on Jessica, but she doesn't acknowledge Morty frequently., Jessica is genuinely nice to Morty and seems to like his company, even going with him to the school dance and grinding with him in \"Big Trouble In Little Sanchez\". So far, she has only spoken to him directly three times. In the Pilot, when Rick Sanchez and Morty escape from Intergalactic Customs, the duo crash into her table. Morty and she have a brief exchange before Rick rips him away. In \"M. Night Shaym-Aliens!\", a simulated, holographic projection of Jessica attempts to seduce Morty in exchange for the recipe for concentrated dark matter. In \"Big Trouble In Little Sanchez\", Jessica questions Morty on his relation to the now younger Rick, and the two are later seen slow dancing together at the school dance. Jessica also has a few minor mentions in \"Mortynight Run\", once as a [foot related] thought read from Morty's mind, and a second time as a phase of a shape-shifting flower in the musical number \"Goodbye Moonmen\"."
+        },
+        {
+          "section": "Biography",
+          "text": "Morty and Jessica's longest time spent in conversation is seen in \"Ricksy Business\" immediately after Jessica is seen irritated by Brad's actions."
+        }
+      ],
+      "linked_terms": {
+        "Big Trouble In Little Sanchez": "Big Trouble In Little Sanchez",
+        "Goodbye Moonmen": "Goodbye Moonmen",
+        "Intergalactic Customs": "Intergalactic Customs",
+        "M. Night Shaym-Aliens!": "M. Night Shaym-Aliens!",
+        "Mort Dinner Rick Andre": "Mort Dinner Rick Andre",
+        "Morty": "Morty Smith",
+        "Morty Smith": "Morty Smith",
+        "Mortynight Run": "Mortynight Run",
+        "Mr. Frundles": "Mr. Frundles",
+        "Narnia Dimension": "Narnia Dimension",
+        "Parmesan Dimension": "Parmesan Dimension",
+        "Pilot": "Pilot",
+        "Rest and Ricklaxation": "Rest and Ricklaxation",
+        "Rick Sanchez": "Rick Sanchez",
+        "Rickfending Your Mort": "Rickfending Your Mort",
+        "Ricksy Business": "Ricksy Business",
+        "Solaricks": "Solaricks"
+      }
+    },
+    {
+      "page": "Planetina",
+      "category": "character",
+      "name": "Verdara",
+      "resolved_title": "Planetina",
+      "page_id": 29877,
+      "revision_id": 127556,
+      "fetched_at_utc": "2026-11-01T01:37:56.687715+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Planetina",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Planetina?action=history",
+      "html_sha256": "ffcfc48e1035f9d5d0640a270090306b831d2dd6d938da6deec6c6342ded90f5",
+      "paragraphs": [
+        {
+          "section": "Biography",
+          "text": "In present day, Planetina catches Morty's attention when she stops an evil rat alien named Diesel Weasel. Morty promptly asks her on a date, to which she accepts. After a fire, Morty confesses how he likes her and she is flattered before introducing him to her \"children\", who treat her like an item. She soon has an interview with the media until becoming surprised when Morty states they are a couple."
+        },
+        {
+          "section": "Biography",
+          "text": "However, the Tina-Teers are annoyed by the relationship and want to get rid of Morty for Planetina to focus on making them profits. This causes Morty to go on a murder spree of the Tina-Teers and their potential customers until he obtains their rings. Now free, she and Morty want to be together but his mother forbids it, causing Morty to leave home."
+        },
+        {
+          "section": "Biography",
+          "text": "While trying to save the Earth with Morty, without the Tina-Teers to reign her in, Planetina's behavior starts to become increasingly violent starting with slashing the tires on a highway full of cars and then, burning down a congressman's home with a petrol bomb which begins to horrify Morty. Afterwards, at a mining facility, the two confront a group of miners who are about to go underground while Planetina is telling them what their actions are doing to the planet, but they refuse to listen and proceed underground to resume their mining. Although Morty says they'll get them next time, Planetina flies into a fit of rage and burns the entire mining facility to the ground resulting in the deaths of 300 people while Morty watches in tears. These actions cause Morty to decide to tearfully end their relationship amid Planetina's attempts to justify her actions at the mine from his bedroom window. She also brings up how he killed the Tina-teers, while he states he killed them because they were just going to sell her away and only wanted her free. Planetina then confesses her love for him but he sadly rejects her declaration. Distraught at the rejection, she tearfully curses Morty out before flying away into the night heartbroken, leaving Beth to comfort her heartbroken son."
+        },
+        {
+          "section": "Apocrypha",
+          "text": "While she isn't seen again, Rick manages to activate a device that sends all the villains to different universes with no way out, indicating that Planetina was also sent to a different universe."
+        },
+        {
+          "section": "Appearance",
+          "text": "Planetina is a humanoid Elemental construct resembling a teenage girl. She has very pale blue skin, turquoise hair and dark blue lips. She is always seen wearing her superhero-esque suit, which is primarily light blue with accents of yellow and includes the recycling symbol, in the shape of a heart, situated on her chest."
+        },
+        {
+          "section": "Appearance",
+          "text": "When Planetina becomes enraged, she becomes ignited in red flames and her skin and hair shift into a greenish tint. She also gains dark circles around her eyes and her hair begins floating upwards."
+        },
+        {
+          "section": "Personality",
+          "text": "She instantly formed a bond with Morty and even became infatuated with him very quickly. Planetina also enjoyed her role as a superhero and was joyous whenever she completed a job. Although Planetina was quite happy with her life, she was put under pressure by the Tina-Teers to avoid eating too many calories and disliked being unsummoned by their elemental rings as it took away her autonomy."
+        },
+        {
+          "section": "Personality",
+          "text": "However, as Morty got to know Planetina more, a fanatical side to her activism was revealed. She began engaging in acts of eco-terrorism, such as vandalising cars and bombing the homes of congressmen, and did so with just as much glee as she would with an act of heroism. This came to a head when she attempted to convince miners to stop working and after they refused, she murdered all of them in a fit of rage. Despite Morty being repulsed by this, Planetina remained headstrong in her beliefs and asserted that the miners deserved to die because of the impact they were having on the Earth's climate crisis. Despite insisting she loved Morty and killed the miners to save him and the Earth, their relationship comes to an end and Planetina leaves after telling Morty \"Fuck you\"."
+        },
+        {
+          "section": "Powers and Abilities",
+          "text": "Elemental control: Planetina is a construct of the elements and thusly has full control over fire, water, dirt and air. She uses these to save the Earth from ecological disasters."
+        }
+      ],
+      "linked_terms": {
+        "Diesel Weasel": "Diesel Weasel",
+        "Morty": "Morty Smith"
+      }
+    },
+    {
+      "page": "Abradolf Lincler",
+      "category": "character",
+      "name": "Ordan Merik",
+      "resolved_title": "Abrodolph Lincoler",
+      "page_id": 3182,
+      "revision_id": 120793,
+      "fetched_at_utc": "2026-11-01T01:38:00.381058+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Abrodolph_Lincoler",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Abrodolph_Lincoler?action=history",
+      "html_sha256": "1b03f5f4ebe9268e82d311ebf951d923c11237eb30c8036933c8a30fc0f4fac2",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "He was created by Rick by combining the DNA of Abraham Lincoln and Adolf Hitler in an attempt to create a morally neutral super leader. He failed and the end result was a cognitively dissonant and morally confused emotional train wreck."
+        },
+        {
+          "section": "Biography",
+          "text": "Abrodolph Lincoler appears at a party Rick and Summer hosted, seeking revenge against his creator. During a rant directed at Rick, he accidentally antagonizes Brad, who becomes hostile after Lincoler talks down to him. Since Brad is black, Lincoler inappropriately tries to appease him by pointing out he is half Abraham Lincoln. This only enrages Brad further and he subsequently beats Lincoler up after Rick and the other partygoers egg him on."
+        },
+        {
+          "section": "Biography",
+          "text": "Still recovering from his beat-down, Lincoler is sent to find Kalaxian Crystals alongside Morty and Nancy after the Smith Residence is teleported to another planet. The trio are ambushed by an alien creature, which Lincoler valiantly fights off, although he is heavily wounded in the process. He passes his seemingly last words along through Morty, revealing that he only wanted to be accepted by his creator, Rick and that he loves Rick like a father."
+        },
+        {
+          "section": "Appearance",
+          "text": "Being a combination of Abraham Lincoln and Adolf Hitler, Abrodolph Lincoler retains features from the two of them."
+        },
+        {
+          "section": "Appearance",
+          "text": "He sports Hitler's slicked-down, side-parted hairstyle, prominent eyebrows and toothbrush mustache and had Lincoln's exceptional height as well as his iconic chinstrap beard. His overall build was quite muscular. Clothing-wise, he wore Lincoln's stovepipe hat, as well as army fatigues with a flak jacket or bulletproof vest over top of them. He has a pistol holstered on his hip, but is never seen using it."
+        },
+        {
+          "section": "Personality",
+          "text": "Abrodolph Lincoler is described as a crazed maniac, who is a cognitively dissonant and morally confused emotional train wreck. He speaks at length about the duality of his existence. However, he is shown to be inept at navigating tense social situations, as seen when he antagonized Brad. Lincoler attempted to defuse the situation by pointing out he was half Abraham Lincoln. He also tried to look for Rick for help during the confrontation, but was quickly shut down."
+        },
+        {
+          "section": "Personality",
+          "text": "While he initially appears to be a tough foe, he is easily beat up by Brad, later though being able to fight off a beast somehow. It can be deduced that this was due to his guard being down, or that he didn't want the party-goers to think that he was indeed a racist by fighting back against Brad. His personal views are a hodgepodge of Lincoln's and Hitler's. For example, while he believes in the emancipation of African-Americans, he also believes in the eradication of 'inferior genes'. He is neither entirely evil nor good."
+        },
+        {
+          "section": "Personality",
+          "text": "Lincoler also occasionally uses German words mixed with English when talking, since Adolf Hitler was a German politician."
+        }
+      ],
+      "linked_terms": {
+        "Abraham Lincoln": "Abraham Lincoln",
+        "Adolf Hitler": "Adolf Hitler",
+        "Brad": "Brad",
+        "Kalaxian Crystals": "Kalaxian Crystals",
+        "Morty": "Morty Smith",
+        "Nancy": "Nancy",
+        "Rick": "Rick",
+        "Smith Residence": "Smith Residence",
+        "Summer": "Summer Smith"
+      }
+    },
+    {
+      "page": "Portal Gun",
+      "category": "technology",
+      "name": "Rift Spindle",
+      "resolved_title": "Portal Gun",
+      "page_id": 2884,
+      "revision_id": 128227,
+      "fetched_at_utc": "2026-11-01T01:36:39.194205+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Portal_Gun",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Portal_Gun?action=history",
+      "html_sha256": "43f57d990caba87327d9b5c7ba88c98e9d1fc625a22b8d3af3d0a852a84ee3d3",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "The Portal Gun is a gadget that allows the user(s) to travel between different dimensions and locations within one dimension."
+        },
+        {
+          "section": "Background",
+          "text": "The Portal Gun was first created by Rick Prime. After leaving his reality, Prime began visiting his alternate selves and gifted them the technology. When he came to Dimension C-137, his counterpart rejected the offer. Insulted, Prime sent a bomb to Dimension C-137, killing its versions of Diane and Beth. After grieving for some time, Rick C-137 built his own Portal Gun, the only Rick other than Prime to actually invent the device and began hunting Rick Prime."
+        },
+        {
+          "section": "Background",
+          "text": "It is an amazing gun, but has its limits. Only mass heavier than air may pass through the portal."
+        },
+        {
+          "section": "Background",
+          "text": "In The Ricklantis Mixup, Portal Fluid is restricted on the Citadel of Ricks, which led to the rise of \"Bootleg Portal Fluid\" that when made correctly, will likely act the same way as real Portal fluid. However, when Bootleg Portal Fluid is made incorrectly (Such as by messing up the math involved) it can have disastrous effects. This is seen in The Ricklantis Mixup when a Rick making Bootleg Portal Fluid gets busted and attempts to use his portal gun to escape a Police Rick and Morty, which results in him dissolving upon contact with the portal he made, likely killing him, to which Police Morty responds to by saying \"I guess his math was off\"."
+        },
+        {
+          "section": "History of Rick C-137's Portal Gun",
+          "text": "The earliest observed instance of the gun is during a memory (depicting Rick in his home dimension tinkering with the concept of teleportation) extracted by Federation Agent Cornvelious Daniel while Rick was willfully imprisoned. It shows a bulky handheld prototype device seemingly edging on the capabilities of practical interspatial teleportation, though Rick C-137 is shown clearly having difficulty getting it fully operational. After failing to work out errors inherent to his invention, an interdimensional version of himself traveled into his garage hoping to implore him to shift his focus into traveling between realities instead, even alluding to a thinly veiled reference of the Central Finite Curve's existence in the process."
+        },
+        {
+          "section": "History of Rick C-137's Portal Gun",
+          "text": "However, shortly after standing his ground against the Rick Prime, the alternate version swiftly left the dimension for good, and sent back a bomb in his place as a final gesture of his disapproval. These events led to the untimely death of his wife and child which ultimately sent him down a path of vengeance to find the party responsible. After relying on this newly constructed and unique version of the portal gun for several years, gradual improvements were made which eventually culminated in the result of the modern iteration typically shown in Rick and Morty's adventures."
+        },
+        {
+          "section": "History of Rick C-137's Portal Gun",
+          "text": "Rick acquired a replacement gun, but that one was also destroyed when Rick rigged it to explode during the battle between Federation agents and the wedding guests at Birdperson's wedding reception in The Wedding Squanchers. Another portal gun was found by Summer in The Rickshank Rickdemption when she unearthed the corpse of the Rick that was killed in the Dimension C-131 but that gun was later destroyed by the Jerry Smith that lived in the Prime Dimension. Given the fact that Tammy Guterman demanded that the portal gun was not to be damaged when demanding that Rick dropped it, combined with the fact that the Galactic Federation used a brainalyzer on Rick to get the details on how to build their own strongly implies that the Federation wanted to use his portal formula for their own personal use and that the reasons for it were likely to exert their control onto other dimensions."
+        },
+        {
+          "section": "History of Rick C-137's Portal Gun",
+          "text": "Morty eventually helped himself to the Portal Gun to repair the damage Rick had done to the galaxy only for Rick to discover his meddling and dissolve their partnership. When Rick briefly left the Smith Family to travel with the Two Crows, he repentantly gifted the Portal Gun to Morty. Eager to have Rick back, Morty used the Portal Gun to follow him around and eventually go to the Citadel to buy an aging serum. While there, Morty refilled the gun with Evil Morty's tainted Portal Fluid, the tainted Fluid trapping the denizens of the Citadel when Evil Morty enacted his plan. When Rick and Morty managed to escape, Rick depressingly regarded the useless Portal Gun."
+        }
+      ],
+      "linked_terms": {
+        "Beth": "Beth Sanchez (C-137)",
+        "Birdperson": "Birdperson",
+        "Central Finite Curve": "Central Finite Curve",
+        "Cornvelious Daniel": "Cornvelious Daniel",
+        "Diane": "Diane Sanchez",
+        "Dimension C-131": "Dimension C-131",
+        "Dimension C-137": "Dimension C-137",
+        "Evil Morty": "Evil Morty",
+        "Galactic Federation": "Galactic Federation",
+        "Jerry Smith": "Jerry Smith Prime",
+        "Morty": "Morty Smith",
+        "Prime Dimension": "Prime Dimension",
+        "Rick": "Rick Sanchez",
+        "Rick Prime": "Rick Prime",
+        "Summer": "Summer",
+        "Tammy Guterman": "Tammy Guterman",
+        "The Ricklantis Mixup": "The Ricklantis Mixup",
+        "The Rickshank Rickdemption": "The Rickshank Rickdemption",
+        "The Wedding Squanchers": "The Wedding Squanchers",
+        "Two Crows": "Two Crows"
+      }
+    },
+    {
+      "page": "Portal Fluid",
+      "category": "technology",
+      "name": "Veyl Catalyst",
+      "resolved_title": "Portal Fluid",
+      "page_id": 41049,
+      "revision_id": 126908,
+      "fetched_at_utc": "2026-11-01T01:38:02.579657+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Portal_Fluid",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Portal_Fluid?action=history",
+      "html_sha256": "45a1a02c3ad64b156d99a759cba40b281c88c17de6b13168357e7a4c132d41b7",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "The fluid enables the creation of green interdimensional portals, allowing matter to travel almost instantaneously between distant locations and alternate dimensions. Rick's portal technology can use these portals for both travel within a universe and travel between."
+        },
+        {
+          "section": "Properties",
+          "text": "The exact chemical composition of Portal Fluid has never been fully revealed. In Forgetting Sarick Mortshall, Morty states that Rick obtains rare glowing green crystals used in connection with his portal fluid. The substance requires considerable precision to produce correctly."
+        },
+        {
+          "section": "Properties",
+          "text": "Portal Fluid is extremely dangerous when improperly manufactured or contaminated. Bootleg Portal Fluid exists on the Citadel of Ricks, but an incorrectly calculated mixture can produce unstable or lethal portals."
+        },
+        {
+          "section": "Properties",
+          "text": "In The Ricklantis Mixup, a Rick attempts to escape The Citadel through a portal generated using bootleg fluid. Upon entering the portal, he is disintegrated. Cop Morty subsequently concludes that the Rick's calculations for the portal fluid were incorrect."
+        },
+        {
+          "section": "Characteristics",
+          "text": "Large quantities of Portal Fluid can behave destructively outside of a Portal Gun. The substance has been depicted dissolving solid material, while spilled fluid can create portal-like openings on surfaces."
+        },
+        {
+          "section": "Characteristics",
+          "text": "Because of these properties, Portal Fluid functions as both the fuel and essential medium for Rick's interdimensional portal technology, rather than simply serving as a conventional energy source."
+        }
+      ],
+      "linked_terms": {
+        "Bootleg Portal Fluid": "Bootleg Portal Fluid",
+        "Citadel of Ricks": "Citadel of Ricks",
+        "Cop Morty": "Cop Morty",
+        "Forgetting Sarick Mortshall": "Forgetting Sarick Mortshall",
+        "Morty": "Morty Smith",
+        "Portal Gun": "Portal Gun",
+        "The Citadel": "The Citadel",
+        "The Ricklantis Mixup": "The Ricklantis Mixup"
+      }
+    },
+    {
+      "page": "Microverse Battery",
+      "category": "technology",
+      "name": "Nested Realm Cell",
+      "resolved_title": "Microverse Battery",
+      "page_id": 7659,
+      "revision_id": 123629,
+      "fetched_at_utc": "2026-11-01T01:38:04.636315+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Microverse_Battery",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Microverse_Battery?action=history",
+      "html_sha256": "f1fb7d2e6431f7953c3b3d6aa4c5d47a71e659cf9e89b56bf067857381f38612",
+      "paragraphs": [
+        {
+          "section": "Description",
+          "text": "The Microverse Battery contains a miniature universe with a planet inhabited by intelligent life. These lifeforms use kinetic devices, which were given to them by Rick, to produce electricity. Under the guise of \"waste power\", a majority of the energy produced is extracted by Rick to power his ship. The people of this world, including their president, Chris, consider Rick to be a benevolent alien, when in fact, he is using them as slaves. Trouble occurs when a scientist in this miniature world, Zeep Xanflorp, invents his own Microverse Battery (which he calls a 'Miniverse') to provide his people with energy, thus making the kinetic devices Rick installed obsolete."
+        },
+        {
+          "section": "Construction",
+          "text": "Microverse - made by Rick; energy extraction via goobleboxes Miniverse - made by Zeep Xanflorp; energy extraction via flooblecrank Teenyverse - made by Kyle; planned energy extraction via bloobleyank"
+        },
+        {
+          "section": "Construction",
+          "text": "Rick describes creating a \"spatially tessellated void inside a modified temporal field\", while Zeep Xanflorp describes his Miniverse as an \"unbounded vacuum inside a temporal field\". The temporal fields of the Miniverse and Teenyverse are known to speed up time inside the universes relative to the outside, but this is unclear in the case of the Microverse; hours pass for Summer in the car while Rick and Morty are inside the battery, but enough time apparently passes immediately after their escape for the Microverse to go back to Goobleboxes. The speed of time is at least slow enough for President Chris to have previously met Rick personally."
+        },
+        {
+          "section": "Construction",
+          "text": "Zeep Xanflorp states that 80% of the energy made by the inhabitants of his Miniverse is extracted for his use, while Rick does not state precisely how much of the Microverse's energy is extracted saying only that 'some of it' powers his ship. The Television broadcast in the Microverse world suggests that he is extracting about two thirds of the energy generated."
+        }
+      ],
+      "linked_terms": {
+        "Chris": "Chris (The Ricks Must Be Crazy)",
+        "Kyle": "Kyle",
+        "Microverse": "Microverse",
+        "Miniverse": "Miniverse",
+        "Teenyverse": "Teenyverse",
+        "Zeep Xanflorp": "Zeep Xanflorp"
+      }
+    },
+    {
+      "page": "Meeseeks Box",
+      "category": "technology",
+      "name": "Taskling Cradle",
+      "resolved_title": "Mr. Meeseeks Box",
+      "page_id": 2307,
+      "revision_id": 126316,
+      "fetched_at_utc": "2026-11-01T01:38:08.474070+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Mr._Meeseeks_Box",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Mr._Meeseeks_Box?action=history",
+      "html_sha256": "0a5c7c62971977547ce38ca244b46feb6f49669ea19f3ec702f3a9e22c5f1ccb",
+      "paragraphs": [
+        {
+          "section": "History",
+          "text": "It is a gadget which creates a Mr. Meeseeks for the purpose of completing one objective. Once it completes the objective, Mr. Meeseeks vanishes."
+        },
+        {
+          "section": "History",
+          "text": "This box spawns red Meeseeks that are notably less helpful and more aggressive, instantly demanding, 'What do you want?' while smoking a cigarette."
+        },
+        {
+          "section": "Fleeseeks Box",
+          "text": "At the end of \"Meeseeks and Destroy\" Rick mentioned that he had a \"Fleeseeks Box,\" which was met with staunch rejection from the other characters after witnessing the negative repercussions of the Meeseeks Box. Rick then jokingly reveals that it is just a mop and some floor wax."
+        }
+      ],
+      "linked_terms": {
+        "Mr. Meeseeks": "Mr. Meeseeks"
+      }
+    },
+    {
+      "page": "Operation Phoenix",
+      "category": "technology",
+      "name": "Protocol Ember",
+      "resolved_title": "Operation Phoenix",
+      "page_id": 7132,
+      "revision_id": 127229,
+      "fetched_at_utc": "2026-11-01T01:38:10.381071+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Operation_Phoenix",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Operation_Phoenix?action=history",
+      "html_sha256": "bb666138a4b6349103995f2c6506211a6ec6c05efedb50de1b62a0ad9bb755af",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Operation Phoenix is one of Rick's contingency plans, meant to revive Rick by uploading his mind to a clone body in the event of his death."
+        },
+        {
+          "section": "Biography",
+          "text": "This experiment began at some point before \"Big Trouble in Little Sanchez\". While testing it, Rick transferred his mind into a clone named Tiny Rick to hunt a vampire at his grandchildren's school. Unfortunately the side effect of the younger clone is that its brain starts to override the original Rick's personality. At the end of \"Big Trouble in Little Sanchez\", Rick (completely naked and fresh out of the preservation chamber) presses a button, taking Morty and Summer down into his underground dungeon (also seen in Auto Erotic Assimilation) which is revealed to hold several chambers containing Ricks in varying stages of development. Rick proceeds to viciously butcher his many clones with an axe to his heart's content, stating the experiment was a failure."
+        },
+        {
+          "section": "Biography",
+          "text": "In \"Edge of Tomorty: Rick Die Rickpeat\", the purpose of Operation Phoenix was revealed. When Rick dies in any dimension, his mind is automatically uploaded into a clone body. Rick had replaced this protocol by having Morty put a tissue sample from his corpse into a cloning machine. He did not know that he would be revived by Operation Phoenix in other dimensions whose alternate Ricks had proceeded on with the experiment. Unlike in \"Big Trouble in Little Sanchez\", Rick's personality stayed the same, either because the alternate Ricks had solved this problem or because Rick did not spend a long enough time in one body for it to happen."
+        },
+        {
+          "section": "Biography",
+          "text": "In \"Rickmurai Jack\", Operation Phoenix is used by some Ricks and Mortys trying to escape the Citadel when the Portal Gun was booby-trapped by President Morty. However, Operation Phoenix was booby-trapped as well, rerouting the Ricks and Mortys into vats on the Citadel where they would immediately be blended and used to power the hijacked Dimensional Drive (which President Morty is using to break open the Central Finite Curve)."
+        },
+        {
+          "section": "Biography",
+          "text": "In \"Mort: Ragnarick\", Rick uses Operation Phoenix to resurrect himself after entering Valhalla multiple times. It is also revealed that it has been upgraded to create clones of Summer and a human version of Bigfoot. One of those clones end up becoming the Pope of the Vatican in the absence of the former pope."
+        }
+      ],
+      "linked_terms": {
+        "Auto Erotic Assimilation": "Auto Erotic Assimilation",
+        "Big Trouble in Little Sanchez": "Big Trouble in Little Sanchez",
+        "Central Finite Curve": "Central Finite Curve",
+        "Morty": "Morty",
+        "Portal Gun": "Portal Gun",
+        "President Morty": "President Morty",
+        "Rick": "Rick Sanchez",
+        "Rickmurai Jack": "Rickmurai Jack",
+        "Summer": "Summer"
+      }
+    },
+    {
+      "page": "Central Finite Curve",
+      "category": "technology",
+      "name": "Bounded Horizon",
+      "resolved_title": "Central Finite Curve",
+      "page_id": 18512,
+      "revision_id": 126311,
+      "fetched_at_utc": "2026-11-01T01:38:12.143072+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Central_Finite_Curve",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Central_Finite_Curve?action=history",
+      "html_sha256": "0b648e8d8877b8955477ef8656e8d708cb9e4b5c08b5e929bd795ab078b14944",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "The Central Finite Curve was designed by the precursors of what would later become the Council of Ricks on The Citadel and Rick C-137 to wall off the infinite number of universes in which Rick is the smartest person alive from the rest of the infinite multiverse."
+        },
+        {
+          "section": "Overview",
+          "text": "The Central Finite Curve is a wall built around infinity, separating all the infinite universes from all the infinite universes where Ricks are the smartest being in the universe, essentially meaning outside the confines of the Central Finite Curve, there are a lot more beings that could potentially be smarter than some of the smartest Ricks in the entire multiverse. Doing so ended up with his portal turning a sleek gold instead of slime green like all the others."
+        },
+        {
+          "section": "Known Dimensions within/close to curve",
+          "text": "C-131 is also the dimension from which the current Beth and Summer originated from."
+        },
+        {
+          "section": "Formation",
+          "text": "In the wake of losing his wife and daughter to a bombing by Rick Prime, C-137 became consumed with finding his evil doppelgänger and eventually succeeded in creating his first Portal-Gun, allowing him access to the infinite multiverse and all the worlds beyond. For years, C-137 rampaged across the multiverse killing every other Rick he could find but never finding the one he sought. In doing so, he also took the opportunity to expand his intellect along the way by scanning and absorbing vast amounts of knowledge from numerous alien worlds into his brain until he became one of the smartest and most dominant beings in all of existence but not the smartest overall."
+        },
+        {
+          "section": "Formation",
+          "text": "Finally, after decades of hunting and killing, C-137 could take no more and signed a peace-treaty with a congregation of his counterparts, part of which involved the construction of a massive, hyper-metropolis space-station called the Citadel of Ricks to serve as a home for all the Ricks and Mortys in the multiverse. Unbeknownst to the Mortys however, C-137 and the fledgling Council of Ricks took things a step further by creating what became known as \"The Central Finite Curve\". Using an advanced variation of their portal-gun technology, they built a massive machine underneath the Citadel of Ricks designed to lock out travel to or from any universe, within the multiverse, in which Rick himself was not the dominant lifeform or the smartest being alive, for example, universes where Jerry is the smartest being in the universe, or universes where Rick Sanchez doesn't exist. This lockout ensured that all Ricks and Mortys could only travel to universes within the Central Finite Curve, universes where Rick was always guaranteed to be the most dominant and the smartest being alive."
+        },
+        {
+          "section": "Formation",
+          "text": "In essence, the Ricks separated out every universe in which Rick wasn't on top of the food chain and isolated themselves and the Mortys within that collection of universes from the rest of the multiverse at large, thereby perpetuating the myth among the Mortys, their families and all the alien races they encountered that Rick was truly top of the food chain. It is assumed Rick C-137 himself did this to lock up Rick Prime, in which case he failed. Eventually, relations between C-137 and the rest of the Ricks soured, and he abandoned the Citadel. Having tracked down the reality where Rick Prime originated, C-137 moved in with Prime's daughter, hoping Rick Prime would return one day. Despite C-137 becoming attached to Morty Prime, he kept the existence of the Central Finite Curve a secret."
+        },
+        {
+          "section": "Breaking",
+          "text": "Under unknown circumstances, Evil Morty became aware of the Central Finite Curve and sought to break free from it. To that end, he captured Rick C-137 and scanned his brain for the schematics of the Citadel's Dimensional Drive. After being elected President of the Citadel, Evil Morty overcharged the Dimensional Drive and used it to punch a hole in the Central Finite Curve, escaping into the larger multiverse."
+        },
+        {
+          "section": "Restoration",
+          "text": "In \"Unmortricken\", Rick \"basically [fracked]\" the Central Finite Curve to flush out Rick Prime. When the shockwaves reached Evil Morty's refuge beyond the Curve, he returned to confront C-137, helping him defeat Rick Prime."
+        },
+        {
+          "section": "Restoration",
+          "text": "Having claimed the blueprints to the Omega Device, Evil Morty blackmailed Rick C-137 to help him defend the Central Finite Curve from powerful threats. In \"There's Something About Morty\", Evil Morty called on Rick to help him fight The Collective, the three managing to defeat the invader before they reached the Curve."
+        }
+      ],
+      "linked_terms": {
+        "Beth": "Beth Smith",
+        "C-131": "Dimension C-131",
+        "Council of Ricks": "Council of Ricks",
+        "Evil Morty": "Evil Morty",
+        "Omega Device": "Omega Device",
+        "Rick Prime": "Rick Prime",
+        "Summer": "Summer Smith",
+        "The Citadel": "The Citadel",
+        "The Collective": "The Collective",
+        "There's Something About Morty": "There's Something About Morty",
+        "Unmortricken": "Unmortricken"
+      }
+    },
+    {
+      "page": "The Citadel",
+      "category": "location",
+      "name": "Concord Spire",
+      "resolved_title": "The Citadel",
+      "page_id": 3489,
+      "revision_id": 127006,
+      "fetched_at_utc": "2026-11-01T01:38:14.061072+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/The_Citadel",
+      "history_url": "https://rickandmorty.fandom.com/wiki/The_Citadel?action=history",
+      "html_sha256": "e8cd21818c05dc4a11074781859b31ae8c940e0d0d9731ab7959a6fb306a1758",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "The Citadel was formed as a secret entity serving to protect Ricks and Mortys from a multitude of accumulated enemies within the Galaxy, including Rick C-137 and the Galactic Federation. Prior to the election of President Morty The Citadel was controlled by the Council of Ricks and, after the partial destruction of The Citadel during a conflict with the Federation, the secretive Shadow Council."
+        },
+        {
+          "section": "Overview",
+          "text": "The Citadel was populated by Ricks and Mortys from across the Central Finite Curve and utilised as a leisure place, meeting point and place of protection for many Ricks and Mortys. However, the Citadel also served as a permanent residence for an untold number of Ricks and Mortys that decided to settle at there."
+        },
+        {
+          "section": "Overview",
+          "text": "Mortys were revealed to be mass produced as clones in the Citadel to be dispatched to Ricks as sidekicks and cloaking devices to hide Ricks from dangers. The clones were needed for those Ricks whose original Mortys died or came from universes where Morty was never born. These Mortys were imbued with desirable subservient traits described as being 'bred for forgiveness'. The Citadel also influenced Beth and Jerry's relationship in various universes to make sure there were still a steady supply of naturally-born Mortys."
+        },
+        {
+          "section": "Overview",
+          "text": "In \"The Rickshank Rickdemption\" Rick C-137 teleported the Citadel in Galactic Federation Prison in his dimension which destroyed both locations causing chaos and conflict between two fractions. By the event's of \"Ricklantis Mixup\" the Citadel had been rebuilt. Evil Morty, hiding his true identity and motives, ran for president under the \"Morty Party\" under the guise of unity and populism. Following an assassination attempt by his former campaign manager who learned his identity, Evil Morty won the election by a close margin and became the president of the Citadel."
+        },
+        {
+          "section": "Overview",
+          "text": "From this point up until its destruction, President Morty had remained the absolute dictatorial leader of The Citadel."
+        },
+        {
+          "section": "Overview",
+          "text": "In \"Rickmurai Jack\" the Citadel was ultimately destroyed after Evil Morty set off a chain reaction of events that kills all the Ricks and most of the Mortys in the Citadel and ultimately exploded after Evil Morty broke through the Central Finite Curve. Rick C-137 and Morty managed to detach Mortyburg from the rest of the city and was ultimately spared destruction however."
+        },
+        {
+          "section": "Overview",
+          "text": "Following the Citadel's destruction, the remains became a refugee shelter for cloned Ricks and Mortys created in the Citadel who were teleported there after the portal reset in \"Solaricks\" because they didn't have a home reality to return to. In \"The Rick, The Mort & The Ugly\" one of the Rick clones, Boss Hog Rick, attempted to rebuild a new Citadel out of the ruins of the old one. This all came crashing down, however, when Homesteader Rick destroyed the under-construction Citadel and killed Boss Hog Rick and all of his workers in order to give his enslaved cloned Mortys a chance at life without Ricks."
+        },
+        {
+          "section": "History",
+          "text": "Through various universes, Rick has been involved through resistance groups against the Galactic Federation, as well as other groups who consider his genius a threat, such as galactic terrorists, sub-galactic dictators and most of the entire Intergalactic government. To protect themselves and hide from opposing groups, a \"few thousand\" alternate versions of Rick decided to join together and create their own society. In its early stages, this society came into conflict with Rick C-137 who began killing many of its members as he hunted for Rick Prime, the Rick he believed to have killed his family. After C-137 had killed a great many of his counterparts, he and the alliance brokered a peace treaty, one that saw C-137 help design and construct the Citadel. The Citadel is known to have existed for at least 15 years, which predates main Morty's birth."
+        },
+        {
+          "section": "History",
+          "text": "The Citadel also had armed forces headed by a commander-in-chief comprised mostly of Ricks, though some Mortys could also be seen in their ranks. SEAL Team Ricks appear to be an elite component of these forces."
+        },
+        {
+          "section": "History",
+          "text": "Since many Ricks are against the idea of forming a government due to his own political views, a group of \"anti-Rick\" activists are known to exist. Such Ricks include Rick C-137 and the Scientist Formerly Known as Rick."
+        },
+        {
+          "section": "Close Rick-counters of the Rick Kind",
+          "text": "Rick C-137 is taken to the Citadel under suspicions of murdering 27 Ricks, he meets with the Council of Ricks then escapes."
+        }
+      ],
+      "linked_terms": {
+        "Boss Hog Rick": "Boss Hog Rick",
+        "Council of Ricks": "Council of Ricks",
+        "Evil Morty": "Evil Morty",
+        "Galactic Federation": "Galactic Federation",
+        "Galactic Federation Prison": "Galactic Federation Prison",
+        "Homesteader Rick": "Homesteader Rick",
+        "Rick": "Rick Sanchez",
+        "Rick Prime": "Rick Prime",
+        "Ricklantis Mixup": "Ricklantis Mixup",
+        "Rickmurai Jack": "Rickmurai Jack",
+        "SEAL Team Ricks": "SEAL Team Ricks",
+        "Shadow Council": "Shadow Council of Ricks",
+        "Solaricks": "Solaricks",
+        "The Rick, The Mort & The Ugly": "The Rick, The Mort & The Ugly",
+        "The Rickshank Rickdemption": "The Rickshank Rickdemption"
+      }
+    },
+    {
+      "page": "Galactic Federation",
+      "category": "organization",
+      "name": "Vhalan Compact",
+      "resolved_title": "Galactic Federation",
+      "page_id": 5756,
+      "revision_id": 114247,
+      "fetched_at_utc": "2026-11-01T01:38:16.109067+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Galactic_Federation",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Galactic_Federation?action=history",
+      "html_sha256": "9132bf2e1f9c57dfbe1a36595ccec1a690c927b1e771bffaa6b8fa6bbf14d3c8",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "The Galactic Federation was a major galactic organization which controlled significant areas of the universe until it was dismantled by Rick in The Rickshank Rickdemption. There was a surviving part of the militia, seemingly run by Tammy Guterman until her death in Star Mort Rickturn of the Jerri."
+        },
+        {
+          "section": "History",
+          "text": "The Federation government was founded and ruled by the bug-like Gromflomites, although it includes members of many other species."
+        },
+        {
+          "section": "History",
+          "text": "Rick Sanchez, Birdperson, and Squanchy are known to be rebels against the organization, fighting numerous battles to free various planets from its control and committing many \"atrocities\" against it in the process."
+        },
+        {
+          "section": "History",
+          "text": "It's also revealed that Tammy, along with her supposed parents, were undercover agents for the Galactic Federation in order to catch the rebels affiliated with Birdperson and Rick."
+        },
+        {
+          "section": "History",
+          "text": "The Galactic Federation falls into anarchy in The Rickshank Rickdemption once its currency becomes worthless. It does not appear to be in any position to rebuild."
+        },
+        {
+          "section": "History",
+          "text": "The currency of the Federation is Blemflarcks, although they appear to simply be called \"Federal Credits\" on Earth. Upon the Smith's return to Earth in The Wedding Squanchers, a passing Federation robot offers Jerry Smith complimentary antidepressant pills then directs him to the Ministry of Employment where he will be assigned a job to work off his 7,000 credit debt. All Federation jobs on Earth appear to pay only pills."
+        },
+        {
+          "section": "Calendar",
+          "text": "The Galactic Federation runs on its own calendar, which appears to be much faster at roughly 2.6 Federation years to one Earth year. Using a Federation year as GFY and an Earth year as EY, the approximate number of GFYs to 1 EY can be calculated using Summer and Morty's respective ages:"
+        },
+        {
+          "section": "Calendar",
+          "text": "Using this method we receive two different answers. As Morty and Summer are not exactly 14 and 17, these results will be slightly off."
+        },
+        {
+          "section": "Calendar",
+          "text": "Interestingly, there is no possible ratio of GFY:EY which would work for both Summer and Morty if they were 17 and 14 respectively, and their GFY ages seem to suggest that Summer may be 18. To find Summer's lowest possible age using her age in GFY, we need the smallest possible value of one GFY. Assuming that Morty is exactly 14 EY and nearly 36 GFY, we can find the highest ratio of GFY:EY (2.57 GFY to one EY) and thus the smallest GFY value. Dividing Summer's age by this ratio would give Summer a minimum age of 18.29 EY. As Morty is not exactly 14, she must be a bit older."
+        },
+        {
+          "section": "Calendar",
+          "text": "This assumes that the Galactic Federation measures its years linearly. Using quadratics or other functions to measure time would produce very different results, and would preclude easy translation of GFY -> EY. It also assumes that GFY ages start at 0. Finally, it assumes that both Morty and Summer's stated ages in GFY are accurate, which may not be the case. Summer would be prone to exaggeration in this circumstance, while Morty is likely to make a math error."
+        },
+        {
+          "section": "Downfall",
+          "text": "In The Rickshank Rickdemption, the Citadel of Ricks is teleported into the Galactic Federation prison by Rick C-137, causing a massive outbreak. Rick set the value of the Blemflarck to 0, essentially making it worthless. With no money, the Federation quickly fell apart into anarchy."
+        },
+        {
+          "section": "Downfall",
+          "text": "As soon as Blemflarcks became worthless, the President of the Federation committed suicide. The Federation collapses in on itself, causing many of their ships to leave Earth and violence to break out. As of now, the Galactic Federation is considered to be a defunct government. However, some holdouts continue to remain in operation."
+        },
+        {
+          "section": "Galactic Forces",
+          "text": "The military branch of the Galactic Federation is referred to as the Galactic Militia, and is shown to be primarily comprised of Gromflomite soldiers. Other Federation security forces, which may be part of the same organization, include prison guards and Interdimensional Customs agents. it's shown that the previously presumed-dead Birdperson has been converted by Tammy into a cybernetically-enhanced galactic enforcer."
+        },
+        {
+          "section": "Galactic Forces",
+          "text": "Some individual member-worlds of the Galactic Federation have their own native police forces, such as Gear World."
+        },
+        {
+          "section": "Galactic Forces",
+          "text": "The Federation has been shown to possess guarded security checkpoints, including one on Earth shown at the end of The Wedding Squanchers, as well as control over the galaxy's Interdimensional Customs as shown in the Pilot."
+        }
+      ],
+      "linked_terms": {
+        "Birdperson": "Birdperson",
+        "Blemflarck": "Blemflarck",
+        "Citadel of Ricks": "Citadel of Ricks",
+        "Gromflomites": "Gromflomites",
+        "Interdimensional Customs": "Interdimensional Customs",
+        "Jerry Smith": "Jerry Smith",
+        "Pilot": "Pilot",
+        "Rick": "Rick Sanchez",
+        "Rick Sanchez": "Rick Sanchez",
+        "Squanchy": "Squanchy",
+        "Star Mort Rickturn of the Jerri": "Star Mort Rickturn of the Jerri",
+        "Tammy": "Tammy Guterman",
+        "Tammy Guterman": "Tammy Guterman",
+        "The Rickshank Rickdemption": "The Rickshank Rickdemption",
+        "The Wedding Squanchers": "The Wedding Squanchers",
+        "The Wedding Squanchers,": "The Wedding Squanchers,"
+      }
+    },
+    {
+      "page": "Blips and Chitz",
+      "category": "location",
+      "name": "Prism Arcade",
+      "resolved_title": "Blips and Chitz",
+      "page_id": 5378,
+      "revision_id": 102617,
+      "fetched_at_utc": "2026-11-01T01:38:17.929745+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Blips_and_Chitz",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Blips_and_Chitz?action=history",
+      "html_sha256": "f69ab06112c20c62e251cf831001e90bd7a68c1d48422ecedd24f8f0ba4439ba",
+      "paragraphs": [
+        {
+          "section": "History",
+          "text": "Blips and Chitz is an arcade themed building where Morty plays a virtual reality game called Roy: A Life Well Lived, where he lives through the entire life of a man named Roy up to the age of 55."
+        },
+        {
+          "section": "History",
+          "text": "When Morty returned, he was furious at Rick for selling a gun to the assassin Krombopulos Michael for a single afternoon at Blips and Chitz. Rick didn't care for what Morty had to say and proceeded to take his turn in Roy: A Life Well Lived."
+        },
+        {
+          "section": "History",
+          "text": "In the commercial an alien can be seen getting teleported into a game and getting shot and another alien can be seen getting decapitated."
+        },
+        {
+          "section": "History",
+          "text": "In Pocket Mortys, there are Blips and Chitz Express machines located all over the various dimensions. Here you can buy Mortys using Blips and Chitz Coupons."
+        },
+        {
+          "section": "Location",
+          "text": "It is unknown where Blips and Chitz is, but the ceiling window shows that it's in space rather than on a planet. The events of Mortynight Run also suggest that it is somewhat near a Federation outpost and the garage in which Morty first meets Krombopulos Michael."
+        }
+      ],
+      "linked_terms": {
+        "Blips and Chitz Express": "Blips and Chitz Express (Pocket Mortys)",
+        "Federation outpost": "Galactic Federation Outpost",
+        "Krombopulos Michael": "Krombopulos Michael",
+        "Morty": "Morty",
+        "Mortynight Run": "Mortynight Run",
+        "Pocket Mortys": "Pocket Mortys",
+        "Roy": "Roy",
+        "Roy: A Life Well Lived": "Roy: A Life Well Lived"
+      }
+    },
+    {
+      "page": "Froopyland",
+      "category": "location",
+      "name": "Velvet Expanse",
+      "resolved_title": "Froopyland",
+      "page_id": 18962,
+      "revision_id": 125563,
+      "fetched_at_utc": "2026-11-01T01:38:19.708632+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Froopyland",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Froopyland?action=history",
+      "html_sha256": "e84088ff9c2fa3a86026f390a8489829ca05cbd8c2503a40f162095435ef2805",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Froopyland is an artificially generated world created by Rick Sanchez from a collapsed quantum tesseract some time in the 1980s for his daughter, Beth Smith, when she was a little girl. It appears in \"The ABC's of Beth\"."
+        },
+        {
+          "section": "Overview",
+          "text": "Rick outright admits that his reason for creating Froopyland was to sequester Beth, who clearly showed strong psychotic tendencies as a child, and protect their neighborhood (though he immediately makes it clear that he didn't do so out of the non-existent goodness of his heart, but just so he wouldn't have to clean up any of Beth's messes). Rick mentioned that all other Ricks also made a Froopyland for their Beths."
+        },
+        {
+          "section": "Description",
+          "text": "Froopyland is accessed by drawing an entranceway with what appears to be a glowing purple piece of chalk."
+        },
+        {
+          "section": "Description",
+          "text": "The inside of Froopyland consists of a massive area that includes mountains, forests, swamps, and likely other biomes. The weather is always perfectly sunny and warm with procedurally generated clouds rolling across the sky. A rainbow river with a stunning waterfall cuts through the land. The ecosystems are largely fantasy inspired as there are literal swamps of honey. Rick comments that the native wildlife has imaginary, procedurally-generated carbon DNA."
+        },
+        {
+          "section": "Description",
+          "text": "Froopyland was designed by Rick to be an incredibly safe place for Beth to play in. All ground surfaces are bouncy to prevent injuries from falling, the rainbow river's water is breathable to prevent drowning, and all froopy creatures were designed to be harmless. However, after Tommy got trapped in Froopyland and started mating with the froopy creatures, the human DNA gummed up their bio-carbons, mutating them, causing them to develop aggressiveness and predatory attributes."
+        }
+      ],
+      "linked_terms": {
+        "Beth Smith": "Beth Smith",
+        "Rick Sanchez": "Rick Sanchez",
+        "The ABC's of Beth": "The ABC's of Beth"
+      }
+    },
+    {
+      "page": "Anatomy Park (location)",
+      "category": "location",
+      "name": "Somatic Enclave",
+      "resolved_title": "Anatomy Park (location)",
+      "page_id": 2145,
+      "revision_id": 105304,
+      "fetched_at_utc": "2026-11-01T01:41:56.586683+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Anatomy_Park_%28location%29",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Anatomy_Park_%28location%29?action=history",
+      "html_sha256": "af4414d03466593b0ff82c02bc010ed8412b0e0dd285b7544b7fde6237e1c9ad",
+      "paragraphs": [
+        {
+          "section": "Alveoli Forest",
+          "text": "\"Alveoli Forest\" was a forest-themed attraction located in Ruben's lungs. Morty, Dr. Xenon Bloom and his crew tried to escape Hepatitis A by going through the Alveoli Forest. They were soon attacked by escaped Tuberculosis, and Poncho's wild shooting resulted in Alexander's death by Ruben's coughing."
+        },
+        {
+          "section": "Appendix Memorial",
+          "text": "The \"Appendix Memorial\" is a memorial dedicated to Ruben's removed appendix. What used to be the entrance to the appendix is framed by stones with flowers and candles placed before it."
+        },
+        {
+          "section": "Bladder Falls",
+          "text": "\"Bladder Falls\" was located in the Lower Abdomenland-part of Anatomy Park. It was a waterland, presumably filled with urine instead of water."
+        },
+        {
+          "section": "Cerebral Cortex Carousel",
+          "text": "\"Cerebral Cortex Carousel\" was a carousel located in Ruben's brain. Visitors would have to use the Bone Train to travel between it and the rest of the park. It was still under construction and the carousel was placed next to Bladder Falls at the entrance of the park. Visitors would sit in green bean-like carriages."
+        },
+        {
+          "section": "Colon Log Ride",
+          "text": "The \"Colon Log Ride\" was an attraction where the visitor would sit in a poop-shaped log and travel down through Ruben's colon."
+        },
+        {
+          "section": "Diaphragm Bounce House",
+          "text": "\"Diaphragm Bounce House\" is a bounce house located in Ruben's thoracic cavity. Visitors can bounce around on the diaphragm while Ruben breathes, allowing for more bounce in the jumps."
+        },
+        {
+          "section": "Food Court",
+          "text": "The \"Food Court\" inside Ruben is comprised of several food stands and restaurants: Panda Express, Daily Krill, Scrummie's Scraps, Corndog House, Bob's Hungry Hut, Foodies, Teriyaki Kitty, Burger Barn, The Great Steak & Potato Co., Tacos! Tacos!, Turtle Fiesta!, Quiznos, Sbarro, Tummy Fillers, and Churro Stand."
+        },
+        {
+          "section": "Great Moments with Ruben",
+          "text": "\"Great Moments With Ruben\" was an animatronic theatre showing Ruben's life up until Rick created the park inside of him. Morty and Annie made out instead, but was interrupted by Rick over Morty's speaker."
+        },
+        {
+          "section": "Hall of Marrows",
+          "text": "The \"Hall of Marrows\" was a walking tour through a tunnel with hollow bones sticking up from the ground."
+        },
+        {
+          "section": "Haunted Liver",
+          "text": "The \"Haunted Liver\" is a haunted house built inside of Ruben's liver, which was heavily damaged due to his strong alcoholism. It contained animatronic creatures, like a werewolf. It was also the hiding place for Dr. Xenon Bloom and his crew until Morty arrived."
+        },
+        {
+          "section": "Hemoglobin River Run",
+          "text": "The \"Hemoglobin River Run\" was an attraction where visitors would ride rafts, which look like red blood cells, down through Ruben's blood stream in a river-like fashion."
+        },
+        {
+          "section": "It's A Small Small Intestine",
+          "text": "\"It's A Small Small Intestine\" was a water-based ride located in Ruben's small intestine and featured audio-animatronic children working a factory to simulate the workings of the small intestine. The whole team took the ride in order to reach the colon, but they met Gonorrhea on their way. Morty saved the group by reminding them of the flammable gas building up in Ruben's body, and Poncho set the diseases on fire."
+        },
+        {
+          "section": "Kidney Coaster",
+          "text": "\"Kidney Coaster\" is roller coaster attraction where the carts are shaped like kidneys. Two carts are connected by a metal beam on the side and run on parallel tracks."
+        },
+        {
+          "section": "Lung Lift-Off",
+          "text": "\"Lung Lift Off\" was a spaceship-themed attraction in the park, located in the lungs."
+        },
+        {
+          "section": "Pirates of the Pancreas",
+          "text": "\"Pirates of the Pancreas\" was one of many attractions within Anatomy Park, an attraction inside a homeless war veteran named Ruben who had fallen on hard times. The attraction itself was very personal to Rick who became very defensive over any and all criticisms that it received."
+        },
+        {
+          "section": "Pirates of the Pancreas",
+          "text": "This greatly infuriated Rick who then angrily told Ethan the creators were creating a 'piece of shit' and 'monument to compromise' inside him."
+        },
+        {
+          "section": "Pirates of the Pancreas",
+          "text": "The reason for this is that Rick did not want to whitewash history."
+        },
+        {
+          "section": "Prostate Petting Zoo",
+          "text": "The \"Prostate Petting Zoo\" was located in Ruben's rectum. His very enlarged prostate was fenced in and visitors could touch and pet it. A sign was posted in front of the enclosure prohibiting anyone with long fingernails from touching the large lump."
+        },
+        {
+          "section": "Rectum Bumper Cars",
+          "text": "\"Rectum Bumper Cars\" was a bumper car attraction in Ruben's rectum. The bumper on the front of the cars was formed to resemble a butthole."
+        },
+        {
+          "section": "Single-Celled Carousel",
+          "text": "This is a small carousel located inside somewhere in the park. It is a ride consisting of a rotating circular platform with seats made to look like purple single-celled organisms."
+        },
+        {
+          "section": "Sphincter Dam",
+          "text": "The \"Sphincter Dam\" was a physical dam built inside Ruben after he became incontinent and could no longer control his sphincter. The dam burst after Ruben's death and killed Roger in the process."
+        }
+      ],
+      "linked_terms": {
+        "Alexander": "Alexander",
+        "Anatomy Park": "Anatomy Park",
+        "Ethan": "Ethan",
+        "Gonorrhea": "Gonorrhea",
+        "Hepatitis A": "Hepatitis A",
+        "Lower Abdomenland": "Lower Abdomenland",
+        "Rick": "Rick",
+        "Ruben": "Ruben",
+        "Tuberculosis": "Tuberculosis"
+      }
+    },
+    {
+      "page": "Gazorpazorp",
+      "category": "location",
+      "name": "Zharuun",
+      "resolved_title": "Gazorpazorp",
+      "page_id": 2988,
+      "revision_id": 111086,
+      "fetched_at_utc": "2026-11-01T01:38:25.198993+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Gazorpazorp",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Gazorpazorp?action=history",
+      "html_sha256": "e41e2bdab6069ae89ac90d350a9e2dcf9c656ce6399cf6b9456e2cb7da1aa305",
+      "paragraphs": [
+        {
+          "section": "Species",
+          "text": "Gazorpians are large humanoid figures with six hands. They have two sets attached to their shoulders and waists as well as a pair on their head. It is revealed that both humanoids and animals have the trend of hands in place of their ears. Gazorpians, both male and female, age faster than human beings. It is seen that males have a neutral color of red skin while females have variations of yellow and orange."
+        },
+        {
+          "section": "Government",
+          "text": "The government is a matriarchy, with Ma-Sha as their leader. Their motto seems to be the Latin phrase \"Sis Semper Calumniam\" which roughly translates as \"You're always slandering\". They govern the planet from their utopian society underground, separated from the male part of the species. The men have no saying in the politics on this planet."
+        },
+        {
+          "section": "Culture",
+          "text": "A common greeting among female Gazorpians is \"I'm here if you need to talk.\", while it is assumed the male Gazorpians merely grunt at each other. The underground Gazorpian city holds a variety of different shops and locations, like the cafe \"Just a Bite of Yours\" and the cuddle club \"The Cuddle Puddle\"."
+        },
+        {
+          "section": "Alternate timeline",
+          "text": "In this timeline, they also established the e-commerce marketplace \"Gazorpazorpazon\" (Gazorpian version of Amazon). One of its managers was interviewed on the intergalactic radio podcast 1% Visible."
+        }
+      ],
+      "linked_terms": {
+        "Gazorpians": "Gazorpians",
+        "Ma-Sha": "Ma-Sha"
+      }
+    },
+    {
+      "page": "Gromflomites",
+      "category": "species",
+      "name": "Yavari",
+      "resolved_title": "Gromflomites",
+      "page_id": 4698,
+      "revision_id": 121532,
+      "fetched_at_utc": "2026-11-01T01:38:27.108734+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Gromflomites",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Gromflomites?action=history",
+      "html_sha256": "89fb9455b95ca5d3b9ae591724ad32a14a32e34c649eb63053bc015db275a636",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "They are a species of insectoid aliens originating from Gromflom Prime. They were the leading species of the Galactic Federation until its eventual collapse."
+        },
+        {
+          "section": "Overview",
+          "text": "After battling alongside Rick and Beth Sanchez against a conspiracy to release a species of mutating fungus, the Gromflomites have established peace with the Defiance."
+        },
+        {
+          "section": "History and culture",
+          "text": "The history of the species is largely unknown, but they appear to have established or otherwise obtained control of the Galactic Federation at some point. Gromflomites are shown to comprise the entire upper echelon of the Galactic Federal government, as well as most of their military, the latter referred to as the Galactic Militia. At least one Gromflomite, Krombopulos Michael, has taken on jobs that sometimes require action against the Federation, including the killing of Federation-aligned Gromflomite guards, suggesting that the species as a whole may not be loyal to the Federation."
+        },
+        {
+          "section": "Appearance",
+          "text": "The Gromflomites are insectoid creatures, sporting many features similar to common flies and praying mantises. Their bodies are a dull green color, darker in some places and lighter in others and covered in small bumps or hairs. Their midsections are conical in shape, being larger around the head and smaller around the legs. The Gromflomites' heads are typically much smaller than their upper bodies, with large, red compound-eyes and two small antennae sticking out the top, with mouths consisting of sagging vertical lips. Gromflomites do not seem to blink, but their eyes still feature a pair of eyelids used to display emotions and can visibly perspirate in stressful situations. The color of their blood is dark blue."
+        },
+        {
+          "section": "Appearance",
+          "text": "Gromflomites have two thin arms which get thicker and gain edges starting at the elbows, ending in a variable amount of articulated pincers used as fingers. There are four udder-like appendages sticking out of their chests and two more from their groins. at least the groin ones serves as shell glands or gonads. They are capable of asexual reproduction however still often seem to form human-like family units, with many Gromflomites mentioning significant others or multiple parents. The Gromflomites' legs are thin and triple-jointed, with each ending in a foot with two large claws in front and a much shorter one sticking out of the ankle."
+        },
+        {
+          "section": "Appearance",
+          "text": "Despite these universal features, Gromflomites still display a wide anatomical variety between certain populations, with at least two distinct castes or subspecies similar to the division between soldiers and workers seen in many species of ants, bees, and other eusocial insects. The reason for these variations are that some Gromflomites are of a higher rank, perhaps commanders . \"Soldier\" Gromflomites have a bulky, heavily hunchbacked build and are capable of flight, with two clear, round wings sprouting from their back behind a pair of taloned antennae. Soldiers also have a pair of claw-like mandibles on their mouths, however seem to generally have fewer pincers on their hands. \"Civilian\" Gromflomites, such as Krombopulos Michael and Cornvelious Daniel, have a much lither, almost humanoid frame with an elongated neck and a thin waist and three-pincered hands. These Gromflomites are always seen wearing clothing, unlike their more commonly-seen variants, who usually engage in the nude but have sometimes donned face-obscuring battle armor."
+        },
+        {
+          "section": "Appearance",
+          "text": "Despite this, the two seem nonetheless comparable in both societal sophistication and fighting capability: Soldiers display human-like levels of intelligence and individuality alongside often forming close familial and social interrelations outside of their military lives, while civilian Gromflomites have at certain points been seen assisting soldiers in military and police actions and at least one \"civilian\", Krombopulos Michael, managed to eliminate several soldier Gromflomites by using his stealthier, humanoid build to his advantage. Additionally the office of the Galactic Federation President was seen to include a humanoid Gromflomite military figure, presumably a general of some sort, with a much taller and heavier frame, a thicker neck, and a pair of soldier-like mandibles, suggesting the possibility of other subtypes or of inter-caste mixing."
+        },
+        {
+          "section": "Appearance",
+          "text": "When aroused, Gromflomites lips turn pincer-like, and pincers start arising from their body. They also secrete a special kind of grease from their elbows that is capable of getting rid of tough stains on clothing."
+        }
+      ],
+      "linked_terms": {
+        "Cornvelious Daniel": "Cornvelious Daniel",
+        "Galactic Federation": "Galactic Federation",
+        "Gromflom Prime": "Gromflom Prime",
+        "Krombopulos Michael": "Krombopulos Michael"
+      }
+    },
+    {
+      "page": "Cromulons",
+      "category": "species",
+      "name": "Vorrathi",
+      "resolved_title": "Cromulons",
+      "page_id": 5036,
+      "revision_id": 127352,
+      "fetched_at_utc": "2026-11-01T01:38:28.968077+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Cromulons",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Cromulons?action=history",
+      "html_sha256": "6cc6d3f27f0d2a5858cedc3496dfb4b87264b599b01bc8ad3bcc2bf357106e5e",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Cromulons are a species of planet-sized beings shaped as giant human heads, and are native to Signus 5 Expanse."
+        },
+        {
+          "section": "Appearance",
+          "text": "The Cromulons appear as giant, humanoid-like heads. The entire species appear to be identical; all of them bear the same chiselled facial structures, prominent veins and unibrows. They do, however, come in different colors. Cromulons also have some sort of hole on the back of their head where the neck would be on a human. This is presumably some sort of anus for their species."
+        },
+        {
+          "section": "Appearance",
+          "text": "All Cromulons seem to have the exact same voice, which is deep and monotone. Even when they express anger, it is in the exact same tone as their regular speaking voice."
+        },
+        {
+          "section": "History",
+          "text": "According to Rick Sanchez, the Cromulons \"feed on the talent and showmanship of less-evolved lifeforms\". Planets that lose or are disqualified are disintegrated by a massive plasma ray cannon."
+        },
+        {
+          "section": "History",
+          "text": "The Cromulons are powerful and large enough that a single Cromulon can cause drastic weather changes such as natural disasters to planets by simply getting near them. It is implied that, despite the influence that a being the size of a Cromulon would have on a planet's cycle of nature, that they are able to manually control their effects on a planet based on their level of satisfaction. They are able to seamlessly fly through space, as if they have their own field of gravity. This could explain why their presence could cause earthquakes powerful enough to cause massive sinkholes, as well as tides receding far beyond their normal shores, acting in the same fashion as the Moon does today. They are also entirely immune to the effect of nuclear bombs, receiving minimal damage upon multiple impacts, simply replying \"NOT COOL\" in response to General Nathan's nuclear assault. They are able to rapidly teleport entire planets across seemingly infinite expanses of space on a whim, as is shown when they instantly teleport Earth to the set of Planet Music."
+        },
+        {
+          "section": "History",
+          "text": "Cromulon technology appears to be massively advanced, as they have access to a planet-sized plasma ray gun, capable of annihilating planets in a single shot, which they activate frequently on a whim. As well, they have notably constructed a Dyson Sphere around their nearby sun."
+        },
+        {
+          "section": "History",
+          "text": "Upon the Cromulons' annexation of Earth, Principal Gene Vagina constructs his own religion - the cult of Headism - in an attempt to please them. Despite the futility of his religion, many of Get Schwifty's events coincide by pure chance with his motives."
+        },
+        {
+          "section": "History",
+          "text": "According to the BlurtFeed article: 8 Things Only 750 Million-Year-Old Cosmic Entities Will Remember, the Cromulons can \"Obtain eons of collected knowledge from THE HOLE.\""
+        },
+        {
+          "section": "History",
+          "text": "The Prime Dimension Earth might potentially have been saved by Cronenberg Rick and Cronenberg Morty, while Dimension C-137 had no Rick for decades, but was on a time loop that might have prevented the Cromulons' arrival."
+        }
+      ],
+      "linked_terms": {
+        "BlurtFeed": "BlurtFeed",
+        "Cronenberg Morty": "Cronenberg Morty",
+        "Cronenberg Rick": "Cronenberg Rick",
+        "Dimension C-137": "Dimension C-137",
+        "Dyson Sphere": "Dyson Sphere",
+        "Gene Vagina": "Gene Vagina",
+        "General Nathan": "General Nathan",
+        "Get Schwifty": "Get Schwifty",
+        "NOT COOL": "NOT COOL",
+        "Planet Music": "Planet Music",
+        "Prime Dimension": "Prime Dimension",
+        "Rick Sanchez": "Rick Sanchez",
+        "Signus 5 Expanse": "Signus 5 Expanse"
+      }
+    },
+    {
+      "page": "The Battle of Blood Ridge",
+      "category": "event",
+      "name": "Siege of Ashen Crest",
+      "resolved_title": "The Battle of Blood Ridge",
+      "page_id": 30505,
+      "revision_id": 127031,
+      "fetched_at_utc": "2026-11-01T01:38:56.397970+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/The_Battle_of_Blood_Ridge",
+      "history_url": "https://rickandmorty.fandom.com/wiki/The_Battle_of_Blood_Ridge?action=history",
+      "html_sha256": "18d307ecfa763cfbbf515bd95c91d0bdaec97ed064ef7bc1495c33fe1d8c154e",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "The Battle of Blood Ridge was a major event in Rick's life and one of the few emotionally important moment's in his history."
+        },
+        {
+          "section": "History",
+          "text": "It is significant because during the battle, Rick began developing a connection to Birdperson and asked if they could truly be 'best friends' (there were homosexual connotations, but this remained unclear). Birdperson declined his offer but said that Rick could use the 'beacon' anytime to contact him. This rejection deeply impacted Rick, and he still refers to the \"Battle of Blood Ridge\" as his \"Vietnam'', presenting itself as a form of PTSD within Rick."
+        },
+        {
+          "section": "History",
+          "text": "The battle itself was fought against the Galactic Federation by Birdman's people and many others, including Rick. They won the battle and Birdperson said the fighting was \"indeed very bad-ass\". A friend named Geardude fought along side them"
+        },
+        {
+          "section": "History",
+          "text": "Rick left Birdperson behind in a huff with his feelings very hurt; but they became friends again and stayed friends for decades after."
+        }
+      ],
+      "linked_terms": {
+        "Birdperson": "Birdperson",
+        "Galactic Federation": "Galactic Federation",
+        "Geardude": "Geardude",
+        "Rick": "Rick Sanchez"
+      }
+    },
+    {
+      "page": "Plumbus",
+      "category": "technology",
+      "name": "Omniflex",
+      "resolved_title": "Plumbus",
+      "page_id": 5405,
+      "revision_id": 127776,
+      "fetched_at_utc": "2026-11-01T01:40:23.150535+00:00",
+      "url": "https://rickandmorty.fandom.com/wiki/Plumbus",
+      "history_url": "https://rickandmorty.fandom.com/wiki/Plumbus?action=history",
+      "html_sha256": "4edb17f8ce79fc8f3086d3b551dce20475b7f9ef7c7395059e84544120e7d863",
+      "paragraphs": [
+        {
+          "section": "Overview",
+          "text": "Plumbuses are created in a factory on Plumbubo Prime 51b. They use Mortys for maintenance and other menial tasks. Known employees are Plumbus Slave Morty, Plumbus Worker Morty, Plumbus Master Morty, Plumbus Prawn Morty, and Plumbonia Morty."
+        },
+        {
+          "section": "Overview",
+          "text": "Working in a factory is very dangerous for a Morty. Repurposed Fleeb Juice, combined with tight spaces, can cause a Morty/Alien hybrid such as Plumbonia Morty. Morty/Plumbus protein strands can cause mutations to occur in Mortys such as Plumbus Prawn Morty."
+        },
+        {
+          "section": "Overview",
+          "text": "One of the aliens that work at the plumbus factory are Blamphs, and another is a Schlami."
+        },
+        {
+          "section": "Purpose",
+          "text": "Plumbus can generate and store vast amounts of heat, allowing it to be used for cooking, ironing or just heating the room."
+        },
+        {
+          "section": "Purpose",
+          "text": "Plumbus can secrete various agents from itself and has adaptive rubbing surfaces, making it useful for cleaning."
+        },
+        {
+          "section": "Purpose",
+          "text": "Plumbus is able to receive radio waves and convert them to sound, even recording and playing them back, so it can be used as a radio and/or receiver."
+        },
+        {
+          "section": "Purpose",
+          "text": "Plumbus has limited locomotion and can autonomously move around the house, even climbing ladders, cleaning the floor without the owner's participation."
+        },
+        {
+          "section": "Purpose",
+          "text": "Contrary to popular belief, plumbus is not used as a personal massager/sensory stimulator, as its manual explicitly says that applying it to sensory organs can cause trauma or death."
+        },
+        {
+          "section": "Purpose",
+          "text": "It's also noted that plumbus is not technically alive, but is grown from organic matter, feels the emotions of its owner, and senses other plumbuses within a rather large range, which can sometimes impair its performance. It's also sometimes used as a decoration."
+        }
+      ],
+      "linked_terms": {
+        "Blamphs": "Blamphs",
+        "Fleeb": "Fleeb",
+        "Plumbonia Morty": "Plumbonia Morty",
+        "Plumbus Master Morty": "Plumbus Master Morty",
+        "Plumbus Prawn Morty": "Plumbus Prawn Morty",
+        "Plumbus Slave Morty": "Plumbus Slave Morty",
+        "Plumbus Worker Morty": "Plumbus Worker Morty"
+      }
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "built_at_utc": "2026-11-02T10:26:26.880783+00:00",
+  "embedding_model": {
+    "name": "intfloat/multilingual-e5-base",
+    "url": "https://huggingface.co/intfloat/multilingual-e5-base",
+    "revision": "d128750597153bb5987e10b1c3493a34e5a4502a",
+    "dimension": 768,
+    "max_input_tokens": 512,
+    "passage_prefix": "passage: ",
+    "query_prefix": "query: ",
+    "normalized": true
+  },
+  "faiss": {
+    "type": "IndexFlatIP",
+    "metric": "cosine similarity on L2-normalized vectors",
+    "vectors": 120
+  },
+  "chunking": {
+    "target_words": 200,
+    "overlap_words": 30,
+    "max_body_tokens": 450,
+    "min_words": 97,
+    "max_words": 261,
+    "max_input_tokens": 409,
+    "short_chunks": [
+      {
+        "source": "knowledge_base/taskling_cradle.md",
+        "reason": "source_shorter_than_100_words"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "source": "knowledge_base/avor_kel.md",
+      "sha256": "e6fd206847711f7227edecb4e58a97137c1b92753d500c020a8b3eddc4549bb7"
+    },
+    {
+      "source": "knowledge_base/bounded_horizon.md",
+      "sha256": "dc11abf3d2705e6010eda42bb6c975c391068a40ca1b44022025ec78fef7d441"
+    },
+    {
+      "source": "knowledge_base/concord_spire.md",
+      "sha256": "2198d5fa65ecc42e05f130d84ec81ac02ce5451a65bd43e4c5536c18c1dd1c6e"
+    },
+    {
+      "source": "knowledge_base/daren_voss.md",
+      "sha256": "a2341ad008b1357ef026f71f2425ae668d5ba9051a864d057275ebcfddd1fb5c"
+    },
+    {
+      "source": "knowledge_base/dr_ivara.md",
+      "sha256": "969c760c47a2b33b61511ed2b5137514552f98fe1328138f28b4d651b16e14dd"
+    },
+    {
+      "source": "knowledge_base/frostveil.md",
+      "sha256": "96f7ce0f92572f7c6c1151e1220707196deca953d8f04623766e9ffb9f31bc1f"
+    },
+    {
+      "source": "knowledge_base/kharon_vex.md",
+      "sha256": "a84711a532e59d8bf3f2cc1e39bffb3b91877a45b5921b5fa6ed56602e0f0949"
+    },
+    {
+      "source": "knowledge_base/liora.md",
+      "sha256": "8859a01d4160d7872931398850f4bc5cc3ecb7fcc99060e804d9dd8195f04846"
+    },
+    {
+      "source": "knowledge_base/master_ovin.md",
+      "sha256": "a6eab9b40e1b8b6f264d198bfda3cb89053fce84953d47d58f400b7cd45dbd88"
+    },
+    {
+      "source": "knowledge_base/neris_voss.md",
+      "sha256": "ba63c7b2fa41ce1e993ee3ee6dc6874c52430afdb8cf5fddd0504f2cefb75c7b"
+    },
+    {
+      "source": "knowledge_base/nerok_tal.md",
+      "sha256": "b994a7179e96d06eff1a88722c22c284f2de246787c72bd51df5c3332e33d08d"
+    },
+    {
+      "source": "knowledge_base/nested_realm_cell.md",
+      "sha256": "1bfc0d947903479589d820c2469db13632f99e6fc8bad76b7d7c2826c3531867"
+    },
+    {
+      "source": "knowledge_base/omniflex.md",
+      "sha256": "75d482b00a2d2eb778c2e3be47094b3e551bd4329f3ca1f609b1566008586918"
+    },
+    {
+      "source": "knowledge_base/ordan_merik.md",
+      "sha256": "4aeb484608df525adede7d96d92f40e35eb04673ba4b03dcc49e3ae395207aa5"
+    },
+    {
+      "source": "knowledge_base/prism_arcade.md",
+      "sha256": "9e6c505c32e16bb0e2ee3ce3e1bbf0abccccf9b028ebf3021ad5d40b345dedca"
+    },
+    {
+      "source": "knowledge_base/protocol_ember.md",
+      "sha256": "4ad1f57f45e60a1c74c857b9855497d3c50fbebc3fa9b83027adcc3dc52f458d"
+    },
+    {
+      "source": "knowledge_base/rift_spindle.md",
+      "sha256": "a71a8ace27ac9484284820390110b43dd27258aed44efb61cde813da3a5d596d"
+    },
+    {
+      "source": "knowledge_base/selra_aster.md",
+      "sha256": "9429520bc51da7d3575a519e1d2e254b3939a8d1d906c4761f379b0ecd1fd00b"
+    },
+    {
+      "source": "knowledge_base/selra_voss.md",
+      "sha256": "b3094637a85d40d01ac1009144025940835670c50137d11a1273f73c582acb89"
+    },
+    {
+      "source": "knowledge_base/siege_of_ashen_crest.md",
+      "sha256": "70d0cbb0dd13d0af95ce1d854d42014f2832d4dcadc48b23df9322dc6486ea87"
+    },
+    {
+      "source": "knowledge_base/somatic_enclave.md",
+      "sha256": "d73f8339a949d794132b8d9a1758afc08e79c3130ee32c488e81a389ea338cf7"
+    },
+    {
+      "source": "knowledge_base/talen_voss.md",
+      "sha256": "780cd879d1bd8c1467d07547bc2fd3a52061d7f393cbbaed480f3d95b4908280"
+    },
+    {
+      "source": "knowledge_base/taskling.md",
+      "sha256": "f90a04b41ccd9ab40463d23f8f1099220ca00328a76bd2594c731f3f70c8fb20"
+    },
+    {
+      "source": "knowledge_base/taskling_cradle.md",
+      "sha256": "ffa23e5ed33034517dbc6a1bbca95ac02af7d41180fc81e21eb2748f8158d416"
+    },
+    {
+      "source": "knowledge_base/the_confluence.md",
+      "sha256": "791915a6410d8a1cb4528a5bd77abd3e5fc5b3879b0c82fc86748eb686c84de4"
+    },
+    {
+      "source": "knowledge_base/velvet_expanse.md",
+      "sha256": "f89d2c12a7667058460646531e1b90ad1cadb0fc8313539302e7a6524ecb5b11"
+    },
+    {
+      "source": "knowledge_base/verdara.md",
+      "sha256": "c909db16503d781d32be8d1113ca905ba039333dfb57e80444c992f6f939e7a5"
+    },
+    {
+      "source": "knowledge_base/vex_talen.md",
+      "sha256": "1d8e1afbd06a105302cc0b8fb11c92a57bae00f5c9a7c7f3ca23ceca583da635"
+    },
+    {
+      "source": "knowledge_base/veyl_catalyst.md",
+      "sha256": "03349e2483d6ecf3a899f65f4596e87be4a2df658f616e0903067d7342c88e76"
+    },
+    {
+      "source": "knowledge_base/veyran_kest.md",
+      "sha256": "13bbbc499334c8eec90f6348662a618f4439538935bf7361988516f009037418"
+    },
+    {
+      "source": "knowledge_base/veyran_oris.md",
+      "sha256": "932b7dadf0c8a7d55a9f673144b66bc49c719760f4e34933daacf633cd2737eb"
+    },
+    {
+      "source": "knowledge_base/vhalan_compact.md",
+      "sha256": "203a90fa82e5a977160e725293768c7845a1f4aba2af4d6445db402761121130"
+    },
+    {
+      "source": "knowledge_base/vorrathi.md",
+      "sha256": "d973cddff20eaef85a99468d38b5113a609737b9758df35d5ccc461a6e32bd9d"
+    },
+    {
+      "source": "knowledge_base/yavari.md",
+      "sha256": "bc69285e1d8587b843cd8a3b2905f2000dfe7f1c9864684a3a7ef2ffa27c1131"
+    },
+    {
+      "source": "knowledge_base/zharuun.md",
+      "sha256": "90c6838fc6b3a21c924e80ceebe8e7a7ec5633ee1db6d1a7402f84c6fa38f56a"
+    },
+    {
+      "source": "knowledge_base/zorvik.md",
+      "sha256": "1fdf4c0f17e8efbc645fa751d042d84ef5b0cd5c7bd5f52da911a0e01f619aac"
+    }
+  ],
+  "documents": 36,
+  "chunks": 120,
+  "timings_seconds": {
+    "model_load": 5.279,
+    "chunking": 0.53,
+    "embedding": 41.652,
+    "index_write": 0.002,
+    "total": 47.464
+  },
+  "runtime": {
+    "device": "cpu",
+    "threads": 4,
+    "batch_size": 8,
+    "python": "3.14.4",
+    "cpu": "x86_64",
+    "packages": {
+      "torch": "2.10.0+cpu",
+      "sentence-transformers": "5.2.3",
+      "transformers": "4.57.6",
+      "langchain-text-splitters": "1.1.3",
+      "faiss-cpu": "1.15.1",
+      "numpy": "2.3.5"
+    }
+  },
+  "artifacts": {
+    "faiss.index": "6767b499fc73477c07cfa43fa6e9e8cf2f6d686b529ee179ce3fb02a287a980c",
+    "chunks.jsonl": "3a4fe370331ea74cd413367ba5c9d5962676dca80506b07f869d3cc544469481"
+  }
+}

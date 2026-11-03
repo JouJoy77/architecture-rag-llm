@@ -1,0 +1,15 @@
+{
+  "documents": 36,
+  "terms": 451,
+  "words": 19423,
+  "min_words": 97,
+  "max_words": 783,
+  "categories": {
+    "character": 19,
+    "species": 3,
+    "technology": 7,
+    "location": 5,
+    "organization": 1,
+    "event": 1
+  }
+}
