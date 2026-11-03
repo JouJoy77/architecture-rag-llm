@@ -1,0 +1,10 @@
+.git
+.venv
+.cache
+**/__pycache__
+**/*.py[cod]
+.env
+.env.*
+reports
+work
+outputs

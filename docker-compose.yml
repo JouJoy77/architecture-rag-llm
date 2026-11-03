@@ -1,0 +1,55 @@
+name: architecture-rag-llm
+
+x-app: &app
+  image: architecture-rag-llm:local
+  build:
+    context: .
+  platform: linux/amd64
+  read_only: true
+  tmpfs:
+    - /tmp
+  cap_drop:
+    - ALL
+  security_opt:
+    - no-new-privileges:true
+
+services:
+  # One-off, online setup. Weights are kept outside the image.
+  models:
+    <<: *app
+    profiles: [setup]
+    command: ["python", "docker/prepare_models.py"]
+    environment:
+      HF_HUB_OFFLINE: "0"
+      TRANSFORMERS_OFFLINE: "0"
+    volumes:
+      - models:/app/.cache/models
+    healthcheck:
+      disable: true
+
+  # The REPL is launched with docker compose exec bot python rag_bot.py.
+  # FAISS and llama.cpp run in the same container, using loopback only.
+  bot:
+    <<: *app
+    network_mode: none
+    command:
+      - python
+      - local_model.py
+      - serve
+      - --server
+      - /opt/llama/llama-server
+      - --gpu-layers
+      - "0"
+      - --threads
+      - "${LLAMA_THREADS:-4}"
+    environment:
+      HF_HUB_OFFLINE: "1"
+      TRANSFORMERS_OFFLINE: "1"
+    volumes:
+      - models:/app/.cache/models:ro
+      - reports:/app/reports
+    stop_grace_period: 30s
+
+volumes:
+  models:
+  reports:

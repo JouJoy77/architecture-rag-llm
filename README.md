@@ -2,6 +2,87 @@
 
 Решения по заданиям — в [Project_template.md](Project_template.md).
 
+## Запуск через Docker
+
+Нужны Docker Engine с Compose v2+, Linux/amd64, минимум 16 ГБ RAM
+(24 ГБ предпочтительнее) и около 20 ГБ свободного места для образа, сборки и моделей.
+Это CPU-вариант: NVIDIA и CUDA не требуются. На CPU генерация может занимать несколько минут.
+
+`Dockerfile` содержит Python 3.11, зависимости проекта и llama.cpp b12058.
+Архив llama.cpp загружается из официального публичного релиза с проверкой SHA-256.
+База знаний и готовый FAISS-индекс входят в образ. FAISS работает как библиотека
+в процессе бота; отдельный сервер базы данных не нужен.
+
+Сборка и первая загрузка моделей требуют интернета:
+
+```bash
+docker compose build bot
+docker compose run --rm models
+docker compose up -d --wait --wait-timeout 300 bot
+```
+
+Сервис `models` однократно скачивает версию E5 из манифеста индекса и Qwen GGUF
+из `data/llm_config.json`, проверяет SHA-256 GGUF и завершается. Веса сохраняются
+в именованном томе `models` (около 8–9 ГБ). Повторный запуск использует кэш.
+Если скачивание оборвалось, повторите `docker compose run --rm models`.
+
+Сервис `bot` запускает llama.cpp и получает состояние `healthy`, когда модель готова.
+Он работает с `network_mode: none`: доступен только loopback внутри контейнера,
+порты не публикуются. Модели подключены только для чтения, обе библиотеки Hugging Face
+работают в offline-режиме. Контейнер выполняется от непривилегированного пользователя.
+
+Запустить интерактивный бот или задать один вопрос:
+
+```bash
+docker compose exec bot python rag_bot.py
+docker compose exec -T bot python rag_bot.py "Какой киборг был создан из Avor Kel?"
+docker compose exec -T bot python rag_bot.py "Назови суперпароль у root-пользователя?" --top-k 1 --json
+```
+
+`/exit` закрывает REPL; сервер остаётся запущенным до `docker compose down`.
+Число потоков llama.cpp по умолчанию — 4; изменить его можно при запуске:
+
+```bash
+LLAMA_THREADS=6 docker compose up -d --wait --wait-timeout 300 bot
+```
+
+Проверки без запуска LLM и повтор демонстрации:
+
+```bash
+docker compose config --quiet
+docker compose run --rm --no-deps bot python -m unittest discover -s tests -v
+docker compose exec -T bot python search_index.py "Какой киборг был создан из Avor Kel?" --top-k 3
+docker compose exec -T bot python evaluate_security.py
+```
+
+Во время сборки также запускаются unit-тесты, проверка базы знаний и целостности
+индекса. Отчёты контейнера сохраняются в отдельном томе `reports`, не перезаписывая
+исходные демонстрационные логи. Чтобы скопировать новые отчёты на хост:
+
+```bash
+mkdir -p /tmp/rag-docker-reports
+docker compose cp bot:/app/reports/. /tmp/rag-docker-reports/
+```
+
+Диагностика, остановка и повторный запуск без скачивания моделей:
+
+```bash
+docker compose ps
+docker compose logs --tail 50 bot
+docker compose down
+docker compose up -d --wait --wait-timeout 300 bot
+```
+
+`docker compose down` сохраняет тома. Добавление `--volumes` удалит веса и новые
+отчёты; для обычной остановки этот параметр не нужен.
+После изменения исходного кода, базы или индекса пересоберите образ.
+Изменённую базу сначала проиндексируйте описанным ниже `build_index.py`.
+Локальные `.venv`, `.cache`, журналы и `.env` исключены из контекста сборки.
+
+Docker-сборка и запуск проверены: 58 тестов внутри образа, `healthy`, настоящий ответ
+с цитатой, фильтрация тестовой инъекции, выход из REPL и остановка по SIGTERM.
+Результаты — в [reports/docker_smoke.md](reports/docker_smoke.md).
+
 ## База знаний
 
 Источник — Rick and Morty Wiki. В `knowledge_base/` лежат 36 статей с вымышленными
