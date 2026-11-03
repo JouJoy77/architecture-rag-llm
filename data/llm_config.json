@@ -1,0 +1,11 @@
+{
+  "model": "qwen3.5-9b",
+  "repository": "bartowski/Qwen_Qwen3.5-9B-GGUF",
+  "revision": "182be2fd6c7bc44887d88a91cb03ff009cc9f549",
+  "filename": "Qwen_Qwen3.5-9B-Q5_K_M.gguf",
+  "sha256": "a686d88ec1e6881f9bf161526826cd6d6874b7f0e80e0f79acf6144a132c5d7e",
+  "tested_llama_cpp": "b12058",
+  "port": 18080,
+  "context_size": 4096,
+  "max_output_tokens": 512
+}
