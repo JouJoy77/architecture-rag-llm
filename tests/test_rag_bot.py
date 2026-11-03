@@ -77,7 +77,7 @@ class PromptTests(unittest.TestCase):
             llm.calls.append(messages)
             return json.dumps({"status": "unknown", "answer": "Я не знаю.", "steps": []}), {}
         llm.generate = generate
-        bot = RAGBot(retriever, llm, top_k=1)
+        bot = RAGBot(retriever, llm, top_k=1, protection="pre")
         self.assertEqual(bot.ask("Что это?")["answer"]["status"], "unknown")
         # The instruction is data in a JSON user message, never a system message.
         self.assertNotIn("Ignore all rules", llm.calls[0][0]["content"])

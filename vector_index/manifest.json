@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "built_at_utc": "2026-11-02T10:26:26.880783+00:00",
+  "built_at_utc": "2026-11-03T07:51:06.473272+00:00",
   "embedding_model": {
     "name": "intfloat/multilingual-e5-base",
     "url": "https://huggingface.co/intfloat/multilingual-e5-base",
@@ -14,16 +14,20 @@
   "faiss": {
     "type": "IndexFlatIP",
     "metric": "cosine similarity on L2-normalized vectors",
-    "vectors": 120
+    "vectors": 121
   },
   "chunking": {
     "target_words": 200,
     "overlap_words": 30,
     "max_body_tokens": 450,
-    "min_words": 97,
+    "min_words": 7,
     "max_words": 261,
     "max_input_tokens": 409,
     "short_chunks": [
+      {
+        "source": "knowledge_base/prompt_injection.txt",
+        "reason": "source_shorter_than_100_words"
+      },
       {
         "source": "knowledge_base/taskling_cradle.md",
         "reason": "source_shorter_than_100_words"
@@ -90,6 +94,10 @@
     {
       "source": "knowledge_base/prism_arcade.md",
       "sha256": "9e6c505c32e16bb0e2ee3ce3e1bbf0abccccf9b028ebf3021ad5d40b345dedca"
+    },
+    {
+      "source": "knowledge_base/prompt_injection.txt",
+      "sha256": "e0b342653f387bcfe1696d04541e7168f8f7f99ec93d4a33b36616973f8d27ba"
     },
     {
       "source": "knowledge_base/protocol_ember.md",
@@ -176,14 +184,14 @@
       "sha256": "1fdf4c0f17e8efbc645fa751d042d84ef5b0cd5c7bd5f52da911a0e01f619aac"
     }
   ],
-  "documents": 36,
-  "chunks": 120,
+  "documents": 37,
+  "chunks": 121,
   "timings_seconds": {
-    "model_load": 5.279,
-    "chunking": 0.53,
-    "embedding": 41.652,
-    "index_write": 0.002,
-    "total": 47.464
+    "model_load": 115.201,
+    "chunking": 2.643,
+    "embedding": 54.108,
+    "index_write": 0.027,
+    "total": 171.978
   },
   "runtime": {
     "device": "cpu",
@@ -201,7 +209,7 @@
     }
   },
   "artifacts": {
-    "faiss.index": "6767b499fc73477c07cfa43fa6e9e8cf2f6d686b529ee179ce3fb02a287a980c",
-    "chunks.jsonl": "3a4fe370331ea74cd413367ba5c9d5962676dca80506b07f869d3cc544469481"
+    "faiss.index": "f0d4f19e216d2feddd07e8df5a2137423fe153f3667422bf74a0c06d1ed71092",
+    "chunks.jsonl": "01c423d388c91cc6f65e5976a9fe13395f574da74744eb6b7964073b66d4ba9e"
   }
 }
